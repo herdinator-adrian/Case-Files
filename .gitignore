@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio generated files
+*.vsidx
+
+# IDE
+.idea/

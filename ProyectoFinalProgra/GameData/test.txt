@@ -1,0 +1,38 @@
+[Header]
+This is a test.
+
+Hello, this is your captain speaking.
+
+[pause=1]
+
+I've just made a pause because I'm so awesome.
+
+[line]
+
+[dialogue]
+Now I'm actually talking.
+That's cool.
+Captain: Wait, no. NOW I'm actually talking.
+Captain: Holy, this is so cool. I didn't think this would work.
+Captain: Now what I wanna do is SCREAM.
+Captain: AAAAAAAAAAAAAAAAAAH!
+
+Captain: Ok, now I'm not actually speaking. The narrator just put my name before to give the illusion.
+But it is obvious, because it is not pausing or something like that.
+
+[dialogue]
+Captain: Now I'm going to draw a line because I want to.
+Captain: But before, I want to try something.
+[line]
+Captain: Oh, I see. It just printed "[line]", instead of actually drawing the line.
+Captain: One minute, let me try again.
+
+[line]
+
+[unlock=hello.txt]
+
+[line]
+
+[dialogue]
+Captain: I waited 10 seconds in between, did it work?
+Captain: Ok, now I'm going to shut up, now I shouldn't be able talk.
