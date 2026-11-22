@@ -12,9 +12,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="GameData\Interviews\" />
-    <Folder Include="GameData\Evidence\" />
-    <Folder Include="GameData\Investigations\" />
+    <Folder Include="GameData\interviews\" />
+    <Folder Include="GameData\evidence\" />
+    <Folder Include="GameData\documents\" />
+    <Folder Include="GameData\emails\" />
   </ItemGroup>
 
 </Project>

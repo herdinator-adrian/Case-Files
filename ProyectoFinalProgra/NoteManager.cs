@@ -2,7 +2,7 @@
 
 public class NoteManager
 {
-	private static readonly string notesPath = Path.Combine(DocumentManager.gamePath, "Notes/");
+	public static readonly string notesPath = Path.Combine(DocumentManager.gamePath, "Notes/");
 
 	public static void AddNote(string noteName, string message)
 	{

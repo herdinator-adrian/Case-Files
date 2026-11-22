@@ -205,6 +205,27 @@ public static class Formatter
 			""");
 
 	/// <summary>
+	/// Asks a question and returns true if yes, false if no.
+	/// </summary>
+	/// <param name="text">The question to ask. This function will append '(Y/n)' at the end.</param>
+	/// <param name="defaultToNo">If true, if the player doesn't answer with a 'y' the answer will be no. Viseversa if false.</param>
+	/// <returns></returns>
+	public static bool WriteYesNoQuestion(string text, bool defaultToNo = true)
+	{
+		Console.WriteLine();
+		WriteLine(text + " (Y/n)");
+		Console.WriteLine();
+
+		Console.Write("> ");
+		string answer = Console.ReadLine().Trim().ToLower();
+		if (defaultToNo && answer == "y")
+			return true;
+		else if (!defaultToNo && answer != "n")
+			return true;
+		return false;
+	}
+
+	/// <summary>
 	/// Draws a line of - in the console
 	/// </summary>
 	/// <param name="animated"></param>

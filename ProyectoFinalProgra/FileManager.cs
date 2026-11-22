@@ -7,7 +7,7 @@ public class FileManager
 		// Crear el archivo.
 		StreamWriter file = File.CreateText(path);
 		file.WriteLine(content);
-		Console.WriteLine($"Creating file at {path}...");
+		//Console.WriteLine($"Creating file at {path}...");
 		file.Close();
 	}
 

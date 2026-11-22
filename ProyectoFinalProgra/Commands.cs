@@ -8,9 +8,25 @@ public static class Commands
 	{
 		switch (command)
 		{
+			// Temporary commands
 			case "unlock":
 				Unlock(args);
 				break;
+			case "reset":
+				DocumentManager.ResetGame();
+				break;
+			case "isread":
+				if (args.Length != 1)
+				{
+					Console.WriteLine("The command 'isread' should at least have one argument: file name.");
+					return;
+				}
+				Console.WriteLine(DocumentManager.IsFileRead(args[0]));
+				break;
+			case "read_files":
+				DocumentManager.GetReadFiles().PrintArray();
+				break;
+
 			case "open":
 				Open(args);
 				break;
@@ -22,6 +38,9 @@ public static class Commands
 				break;
 			case "log":
 				Log();
+				break;
+			case "status":
+				Status();
 				break;
 			case "help":
 				Help();
@@ -101,7 +120,7 @@ public static class Commands
 
 		string newPath = DocumentManager.GetPath(args[0]);
 
-		DocumentManager.UnlockDocument(args[0]);
+		DocumentManager.UnlockFile(args[0]);
 	}
 
 	public static void AddNote(string[] args)
@@ -147,10 +166,8 @@ public static class Commands
 			return;
 		}
 
-		Console.WriteLine("Are you sure you want to delete this file? (Y/n)");
-		Console.Write("> ");
-		string answer = Console.ReadLine().Trim().ToLower();
-		if (answer == "y") NoteManager.DeleteNote(args[0]);
+		if (Formatter.WriteYesNoQuestion("Are you sure you want to delete this file?")) 
+			NoteManager.DeleteNote(args[0]);
 	}
 	
 	public static void Open(string[] args)
@@ -164,6 +181,7 @@ public static class Commands
 		string newPath = DocumentManager.GetPath(args[0]);
 		if (!FileManager.FileExists(newPath)) return;
 
+		DocumentManager.MarkFileAsRead(newPath);
 		Formatter.ProcessText(FileManager.ReadFile(newPath));
 	}
 
@@ -274,6 +292,24 @@ public static class Commands
 		NotificationManager.ShowNotifications();
 	}
 
+	public static void Status()
+	{
+		Formatter.WriteHeader("""
+			CASE STATUS
+			CASE #03 - ELLIE MORROW
+			""");
+		Console.WriteLine("\n");
+		string time = DateTime.Now.ToString("HH:mm");
+		Console.WriteLine($"[{time}, 16/11/1998]");
+		Console.WriteLine("\n");
+		Console.WriteLine("  1. Documents discovered: " + Directory.GetFiles(Path.Combine(DocumentManager.gamePath, "investigations"), "*.txt", SearchOption.TopDirectoryOnly).Length);
+		Console.WriteLine("  2. Interviews discovered: " + Directory.GetFiles(Path.Combine(DocumentManager.gamePath, "interviews"), "*.txt", SearchOption.TopDirectoryOnly).Length);
+		Console.WriteLine("  3. Evidence discovered: " + Directory.GetFiles(Path.Combine(DocumentManager.gamePath, "evidence"), "*.txt", SearchOption.TopDirectoryOnly).Length);
+		Console.WriteLine("  4. Notes created: " + Directory.GetFiles(NoteManager.notesPath, "*.txt", SearchOption.TopDirectoryOnly).Length);
+		Console.WriteLine("\n");
+		Console.WriteLine("Investigation status: ONGOING");
+	}
+
 	public static void Help()
 	{
 		Formatter.WriteLine("\n--- Help ---");
@@ -282,6 +318,7 @@ public static class Commands
 		Console.WriteLine("list - Lists the files saved.");
 		Console.WriteLine("search - Searches for a word in all the files and shows number of matches and coincidences.");
 		Console.WriteLine("log - Shows the log of your previous actions and the documents you've unlocked.");
+		Console.WriteLine("status - Shows the current status of the case.");
 		Formatter.DrawLine();
 		Console.WriteLine();
 		Console.WriteLine("add_note - Creates a file/adds content to an existing file. Args: noteName, content");

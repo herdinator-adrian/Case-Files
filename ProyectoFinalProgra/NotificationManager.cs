@@ -6,10 +6,10 @@ public class NotificationManager
 
 	public static void AddNotification(string message)
 	{
-		string date = DateTime.Now.ToString("HH:mm, dd/MM/yyyy");
+		string time = DateTime.Now.ToString("HH:mm");
 
 		string notification =
-			$"[{date}] {message}";
+			$"[{time}, {DocumentManager.StoryDate.Date.ToString("dd/MM/yyyy")}] {message}";
 
 		Console.WriteLine(notification);
 
