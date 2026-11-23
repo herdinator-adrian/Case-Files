@@ -2,6 +2,31 @@
 using System.IO;
 public class DocumentManager
 {
+	private static readonly string introductoryFile = "initial_case_briefing.txt"; // A file that will be opened in the start.
+	private static readonly (string directory, string[] files)[] initialUnlockedFiles =
+	{
+		("", new string[]{
+			introductoryFile,
+		}),
+		("documents", new string[]{
+			"case_overview.txt",
+			"disappearance_report.txt",
+			"body_recovery_report.txt",
+		}),
+		("evidence", new string[]
+		{
+			"e001_personal_cassette.txt",
+		}),
+		("interviews", new string[]
+		{
+			
+		}),
+		("emails", new string[]
+		{
+
+		}),
+	};
+
 	public static DateTime StoryDate { get; private set; } = DateTime.Now.Date;
 	private const string storyDateStart = "1998/11/16";
 
@@ -10,7 +35,19 @@ public class DocumentManager
 	private static readonly string sourcePath = Path.Combine(basePath, "GameData");
 	public static readonly string playerDataPath = Path.Combine(basePath, "PlayerData");
 	public static readonly string gamePath = Path.Combine(playerDataPath, "Files");
+
+	/// <summary>
+	/// Gets the path of a file inside the in game modifiable path.
+	/// </summary>
+	/// <param name="path"></param>
+	/// <returns></returns>
 	public static string GetPath(string path) => Path.Combine(gamePath, path);
+
+	/// <summary>
+	/// Determines if a new game has just been started or not.
+	/// </summary>
+	/// <returns></returns>
+	public static bool IsNewGame() => Directory.Exists(playerDataPath);
 
 	public static void InitializeGame()
 	{
@@ -22,6 +59,36 @@ public class DocumentManager
 
 		Directory.CreateDirectory(Path.Combine(playerDataPath, "Save"));
 
+		foreach ((string directory, string[] files) in initialUnlockedFiles)
+		{
+			foreach (string fileName in files)
+				UnlockFile(Path.Combine(directory, fileName));
+		}
+
+		// Show the introductory file
+		/*if (IsNewGame())
+		{
+			Commands.Open(new string[] { introductoryFile });
+		}*/
+
+		SetTime();
+	}
+
+	public static void ResetGame()
+	{
+		Formatter.WriteHeader("""
+			You're about to reset the game, which will delete all your progress.
+			This will also close the program, so if you want to try from the start, you will have to run it again.
+			Are you sure you want to do this?
+			""");
+		if (Formatter.WriteYesNoQuestion(""))
+			Directory.Delete(playerDataPath, true);
+
+		Commands.Exit();
+	}
+
+	private static void SetTime()
+	{
 		// SET AND SAVE/LOAD TIME
 		DateTime storyStart = DateTime.Parse(storyDateStart);
 		DateTime realStart = DateTime.Now.Date;
@@ -40,19 +107,6 @@ public class DocumentManager
 		TimeSpan elapsed = realNow.Date - realStart.Date;
 
 		StoryDate = storyStart.AddDays(elapsed.Days);
-	}
-
-	public static void ResetGame()
-	{
-		Formatter.WriteHeader("""
-			You're about to reset the game, which will delete all your progress.
-			This will also close the program, so if you want to try from the start, you will have to run it again.
-			Are you sure you want to do this?
-			""");
-		if (Formatter.WriteYesNoQuestion(""))
-			Directory.Delete(playerDataPath, true);
-
-		Commands.Exit();
 	}
 
 	private static readonly string readFilesPath = Path.Combine(playerDataPath, "Save", "read_files.txt");
@@ -116,14 +170,14 @@ public class DocumentManager
 
 		if (!File.Exists(sourcePath))
 		{
-			Console.WriteLine("Source document not found.");
+			Console.WriteLine($"Source document {path} not found.");
 			return;
 		}
 
 		// Don't duplicate.
 		if (File.Exists(destinationPath))
 		{
-			Console.WriteLine("Document already unlocked.");
+			//Console.WriteLine("Document already unlocked.");
 			return;
 		}
 

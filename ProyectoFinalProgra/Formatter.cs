@@ -9,6 +9,7 @@ public static class Formatter
 	public enum BlockCommand
 	{
 		HEADER,
+		SUBTITLE,
 		DIALOGUE,
 		PAUSE,
 		LINE,
@@ -66,6 +67,10 @@ public static class Formatter
 				if (args == null || args.Length == 0) throw new ArgumentOutOfRangeException("You gave no args while calling unlock.");
 				Commands.Unlock(args);
 				break;
+			case BlockCommand.SUBTITLE:
+				if (textToApply != null)
+					WriteSubtitle(textToApply);
+				break;
 			/*case BlockCommand.COMMAND:
 				if (args == null || args.Length == 0) throw new ArgumentOutOfRangeException("You gave no args while calling a command.");
 				Commands.HandleCommand(args[0], args[1..]);
@@ -103,25 +108,53 @@ public static class Formatter
 		string? textToApply = null;
 
 		if (lines.Length > 1)
-			textToApply = block.Split("\r", 2)[1];
+			textToApply = lines[1];
 
 		return (formatType, args, textToApply);
 	}
 
+	const int charsToWritePerWait = 5;
 	/// <summary>
 	/// Writes a new line animated.
 	/// </summary>
 	/// <param name="text"></param>
-	public static void WriteLine(string text, bool animated = true)
+	public static void WriteLine(string text, bool animated = true, int animationSpeed = charsToWritePerWait)
 	{
 		Console.WriteLine();
-		for (int i = 0; i < text.Length; i++)
+
+		if (!animated)
 		{
-			if (animated)
-				Thread.Sleep(textWriteAnimationPause);
-			Console.Write(text[i]);
+			Console.WriteLine(text);
+			return;
 		}
+		string[] words = text.Split(' ');
+
+		foreach (string word in words)
+		{
+			if (Console.CursorLeft + word.Length >= Console.WindowWidth)
+			{
+				Console.WriteLine();
+			}
+				
+			string newWord = word + " ";
+			int i = 0;
+			while (i < newWord.Length)
+			{
+				Thread.Sleep(textWriteAnimationPause);
+				for (int j = 0; j < animationSpeed; j++)
+				{
+					if (i >= newWord.Length) break;
+
+					Console.Write(newWord[i]);
+					i++;
+				}
+			}
+			
+		}
+
+		Console.WriteLine();
 	}
+
 
 	/// <summary>
 	/// Pausa el hilo durante el tiempo especificado en milisegundos.
@@ -176,8 +209,8 @@ public static class Formatter
 				Thread.Sleep(100);
 
 			if (dialogues[i].speaker != null)
-				WriteLine($"[{dialogues[i].speaker!.ToUpper()}]", !skip);
-			WriteLine(dialogues[i].content + "\n", !skip);
+				WriteLine($"[{dialogues[i].speaker!.ToUpper()}]", !skip, 1);
+			WriteLine(dialogues[i].content + "\n", !skip, 1);
 
 			//Console.WriteLine();
 
@@ -199,10 +232,21 @@ public static class Formatter
 			
 			==================================================
 			{text}
-			
 			==================================================
-
 			""");
+
+	/// <summary>
+	/// Formats text to a subtitle
+	/// </summary>
+	/// <param name="text"></param>
+	public static void WriteSubtitle(string text)
+	{
+		Console.WriteLine();
+		string subTitle = $"--- {text} "; 
+		string spaces = new string('-', Math.Max(3, 45 - text.Length));
+		WriteLine(subTitle + spaces);
+		Console.WriteLine();
+	}
 
 	/// <summary>
 	/// Asks a question and returns true if yes, false if no.

@@ -205,7 +205,8 @@ public static class Commands
 			string[] files = Directory.GetFiles(currentPath, "*.txt", SearchOption.TopDirectoryOnly);
 			foreach (string file in files)
 			{
-				Console.WriteLine($"  {spaces}|- {Path.GetRelativePath(currentPath, file)}");
+				string readText = DocumentManager.IsFileRead(file) ? "[OPENED]" : "";
+				Console.WriteLine($"  {spaces}|- {Path.GetRelativePath(currentPath, file)} {readText}");
 			}
 		}
 	}
