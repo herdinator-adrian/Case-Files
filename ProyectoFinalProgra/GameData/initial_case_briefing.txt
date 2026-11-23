@@ -1,0 +1,162 @@
+[Header]
+CONDADO DE BELLWETHER
+MAINE, ESTADOS UNIDOS
+
+[Header]
+EXPEDIENTE: BW-98-1031
+SUJETO: ELLIE MORROW
+ESTADO: INVESTIGACIÓN ACTIVA
+FECHA DE ASIGNACIÓN: 16 DE NOVIEMBRE DE 1998
+CLASIFICACIÓN: CONFIDENCIAL
+
+[Line]
+
+[subtitle]
+01. ASIGNACIÓN
+
+[dialogue]
+Investigador, se le ha asignado la investigación de la muerte de Ellie Morrow, una niña de trece años originaria de Bellwether, Maine.
+Su asignación proviene directamente de las autoridades del condado, tras las crecientes preocupaciones sobre el manejo del caso por parte del Departamento de Policía de Bellwether.
+La investigación estuvo inicialmente a cargo del sheriff Thomas Reed, quien ha servido a la comunidad durante diecinueve años. Sin embargo, acontecimientos recientes han generado dudas sobre su conducta, sus decisiones durante la investigación y su posible participación en los hechos relacionados con el caso.
+El sheriff Reed es actualmente considerado uno de los tres sujetos de interés. Su posición ha hecho necesaria una investigación independiente.
+No se espera que colabore con el departamento local.
+Se espera que revise sus hallazgos, cuestione sus conclusiones y determine lo que realmente sucedió.
+Se le ha concedido acceso a los expedientes disponibles, las pruebas físicas y las tres personas que actualmente se encuentran bajo custodia para ser interrogadas.
+Se ha ordenado a las autoridades locales que no interfieran con su investigación.
+
+[Line]
+
+[subtitle]
+02. LA VÍCTIMA
+
+[Header]
+NOMBRE: ELLIE MORROW
+EDAD: 13 AÑOS
+FECHA DE DESAPARICIÓN: 31 DE OCTUBRE DE 1998
+FECHA DE RECUPERACIÓN DEL CUERPO: 14 DE NOVIEMBRE DE 1998
+RESIDENCIA: BELLWETHER, MAINE
+
+[dialogue]
+La desaparición de Ellie Morrow fue denunciada el 2 de noviembre, aproximadamente dos días después de haber sido vista por última vez.
+Según su madre, Margaret Morrow, Ellie ocasionalmente salía de casa sin informar a nadie sobre su paradero. Por lo tanto, su ausencia inicial no fue considerada inusual.
+Finalmente, las autoridades locales organizaron una búsqueda con la ayuda de voluntarios. Los esfuerzos se concentraron en los bosques de los alrededores y en varios lugares que la niña frecuentaba.
+La búsqueda fue suspendida después de varios días sin resultados significativos.
+El 14 de noviembre, dos cazadores descubrieron un cuerpo atrapado entre unas rocas en un tramo remoto del río, a varios kilómetros de la localidad.
+Los restos fueron identificados como los de Ellie Morrow.
+
+[Line]
+
+[subtitle]
+03. ESCENA Y HALLAZGOS INICIALES
+
+[dialogue]
+El cuerpo fue recuperado de un tramo del río rodeado por un denso bosque.
+El lugar se encuentra relativamente aislado. Hay pocas viviendas cercanas y el acceso está limitado a varios senderos sin mantenimiento.
+Las primeras observaciones sugirieron que la víctima podría haberse ahogado tras entrar al río.
+Sin embargo, un examen posterior reveló lesiones incompatibles con un simple ahogamiento accidental.
+Desde entonces, los investigadores han clasificado la muerte como un homicidio.
+La secuencia exacta de acontecimientos que condujeron a la muerte de la víctima aún no ha sido determinada.
+No se han identificado testigos confirmados en el lugar donde presuntamente ocurrió el incidente.
+El tiempo transcurrido entre la desaparición y la recuperación del cuerpo ha complicado considerablemente la reconstrucción de los últimos movimientos de la víctima.
+
+[Line]
+
+[subtitle]
+04. HECHOS CONOCIDOS
+
+[dialogue]
+La siguiente información ha sido establecida mediante entrevistas preliminares y los registros disponibles:
+- Ellie Morrow desapareció durante la noche del 31 de octubre de 1998.
+- Se sabe que estuvo por última vez en Bellwether.
+- Su desaparición no fue denunciada hasta el 2 de noviembre.
+- Su cuerpo fue recuperado el 14 de noviembre.
+- El cuerpo fue encontrado a varios kilómetros de la localidad, junto al río.
+- La teoría inicial de un ahogamiento accidental ha sido descartada.
+- La víctima tenía interés en los bosques de los alrededores, el folclore local y los lugares abandonados.
+- La investigación de la policía local contiene inconsistencias y registros incompletos.
+
+
+[Line]
+
+[subtitle]
+05. SUJETOS DE INTERÉS
+
+[dialogue]
+Tres individuos han sido detenidos por el Departamento de Policía de Bellwether.
+Las autoridades locales sostienen que uno de estos individuos es responsable del asesinato. Esta conclusión no ha sido verificada de manera independiente.
+Cada individuo tenía una relación diferente con la víctima y con las circunstancias que rodearon su desaparición.
+
+[Pause=1]
+
+[header]
+THOMAS REED
+EDAD: 48 AÑOS
+OCUPACIÓN: SHERIFF DE BELLWETHER
+
+El sheriff Reed ha estado a cargo del departamento de policía local durante diecinueve años.
+Supervisó la investigación inicial sobre la desaparición de Ellie Morrow. Desde entonces, se han identificado varias irregularidades en el manejo del caso, entre ellas declaraciones incompletas de testigos y decisiones inexplicables respecto a las zonas de búsqueda.
+Su conducta ha generado preocupaciones sobre una posible interferencia en la investigación.
+
+[line]
+
+[header]
+MARGARET MORROW
+EDAD: 39 AÑOS
+OCUPACIÓN: NO CONFIRMADA
+RELACIÓN: MADRE DE LA VÍCTIMA
+
+Margaret Morrow fue el último miembro conocido de la familia que tuvo contacto con Ellie antes de su desaparición.
+No denunció inmediatamente la desaparición de su hija. Su explicación fue que Ellie ocasionalmente salía de casa sin informarle.
+Su comportamiento tras el descubrimiento del cuerpo también ha llamado la atención de las autoridades locales.
+
+[header]
+WALTER HAYES
+EDAD: 54 AÑOS
+OCUPACIÓN: PROPIETARIO DE THE CORNER DINER
+
+Hayes administra un pequeño restaurante en el centro de Bellwether.
+Se sabe que interactuó con Ellie en varias ocasiones, ya que el establecimiento era uno de los lugares que ella frecuentaba.
+Su nombre fue incorporado a la investigación tras recibirse informes sobre acusaciones previas relacionadas con una conducta inapropiada hacia una menor en 1988. Dichas acusaciones no dieron lugar a ninguna condena.
+Las autoridades están examinando actualmente si su relación con la víctima iba más allá de la de un cliente habitual.
+
+[line]
+
+[subtitle]
+06. OBJETIVOS DE LA INVESTIGACIÓN
+
+[dialogue]
+Se espera que determine lo siguiente:
+1. Reconstruir los movimientos de la víctima el 31 de octubre.
+2. Determinar quién tuvo contacto con Ellie durante las horas previas a su desaparición.
+3. Revisar la conducta del Departamento de Policía de Bellwether.
+4. Examinar la posible conexión entre las muertes o desapariciones de Ellie Morrow.
+5. Identificar inconsistencias en las declaraciones de los tres individuos detenidos.
+6. Establecer la identidad de la persona responsable de la muerte de Ellie Morrow.
+No está obligado a aceptar las conclusiones de las autoridades locales.
+Podrán interrogarse a otras personas si aparecen nuevas pruebas que lo justifiquen.
+
+[Line]
+
+[subtitle]
+07. OBSERVACIONES FINALES
+
+[dialogue]
+Bellwether es una localidad pequeña.
+Su población es de aproximadamente seiscientos habitantes. La mayoría de sus residentes han vivido aquí durante años y muchos se conocen desde la infancia.
+Esto podría resultar útil durante la investigación.
+También podría representar una dificultad.
+La población local ya ha formado sus propias opiniones sobre el caso. Algunos residentes creen que el asesinato ya ha sido resuelto. Otros han expresado su descontento con el departamento de policía y con la manera en que se ha llevado a cabo la investigación.
+Debe esperar recuerdos incompletos, declaraciones contradictorias y una resistencia generalizada a hablar sobre ciertos acontecimientos.
+No asuma que el silencio indica culpabilidad.
+No asuma que la familiaridad implica honestidad.
+Y no asuma que los tres individuos que actualmente se encuentran bajo custodia representan la totalidad de esta investigación.
+
+[Line]
+
+[subtitle]
+FIN DEL INFORME INICIAL
+
+[header]
+CONDADO DE BELLWETHER — EXPEDIENTE BW-98-1031
+
+[pause=4]

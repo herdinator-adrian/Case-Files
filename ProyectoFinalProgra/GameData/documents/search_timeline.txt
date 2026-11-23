@@ -1,0 +1,33 @@
+[Header]
+EXPEDIENTE: CASE-001
+VÍCTIMA: ELLIE MORROW
+PERÍODO: 31 DE OCTUBRE — 14 DE NOVIEMBRE DE 1998
+SUPERVISOR: SHERIFF THOMAS REED
+
+[subtitle]
+CRONOLOGÍA DE OPERACIONES
+
+--- 2 DE NOVIEMBRE ---
+Se registra la desaparición de Ellie Morrow. No se inicia una búsqueda formal durante esa noche.
+--- 3 DE NOVIEMBRE ---
+Se organiza una búsqueda inicial con la participación de voluntarios y agentes locales. Se inspeccionan caminos y zonas próximas a la localidad.
+--- 5 DE NOVIEMBRE ---
+Se amplía la revisión a caminos secundarios y áreas residenciales de los alrededores.
+--- 6 DE NOVIEMBRE ---
+Disminuye considerablemente la participación de voluntarios. Las operaciones continúan con personal reducido.
+--- 8 DE NOVIEMBRE ---
+El sheriff Thomas Reed autoriza restringir la búsqueda a determinadas zonas consideradas prioritarias.
+--- 12 DE NOVIEMBRE ---
+Se ordena la suspensión parcial de las operaciones debido a la falta de resultados y a la reducción de recursos disponibles.
+--- 14 DE NOVIEMBRE ---
+Dos cazadores localizan el cuerpo de Ellie Morrow en un tramo remoto del río.
+
+[subtitle]
+NOTA DEL SUPERVISOR
+
+[dialogue]
+Por autorización del sheriff Thomas Reed, se excluye el sector forestal norte de las operaciones de búsqueda.
+Motivo declarado: baja probabilidad de encontrar indicios relevantes y dificultad de acceso al terreno.
+No se registran inspecciones posteriores de dicho sector antes del descubrimiento del cuerpo.
+
+[Line]

@@ -1,0 +1,88 @@
+[Header]
+DEPARTAMENTO DE POLICÍA DE BELLWETHER
+CONDADO DE BELLWETHER — MAINE
+
+[Line]
+
+[Header]
+INFORME DE PERSONA DESAPARECIDA
+NOMBRE: ELLIE MORROW
+EDAD: 13 AÑOS
+FECHA DE DENUNCIA: 02 DE NOVIEMBRE DE 1998
+DENUNCIANTE: MARGARET MORROW
+RELACIÓN CON LA DESAPARECIDA: MADRE
+AGENTE RECEPTOR: OFICIAL DANIEL HARRIS
+
+[Line]
+
+[subtitle]
+01. DESCRIPCIÓN DE LOS HECHOS
+
+[dialogue]
+El 2 de noviembre de 1998, Margaret Morrow se presentó en las instalaciones del Departamento de Policía de Bellwether para reportar la desaparición de su hija, Ellie Morrow, de trece años.
+Según la declaración inicial, Ellie salió de su domicilio durante la tarde del 31 de octubre, con motivo de las celebraciones de Halloween. La menor no regresó a casa esa noche.
+La denunciante manifestó que inicialmente supuso que su hija se encontraba con algún compañero de escuela o conoci­dos de la localidad, y que regresaría por su cuenta.
+No se realizó ninguna llamada a las autoridades durante las primeras horas de ausencia.
+La hora exacta en la que la denunciante advirtió que Ellie no se encontraba en el domicilio no pudo establecerse durante la entrevista inicial.
+
+[Line]
+
+[subtitle]
+02. DECLARACIÓN DE LA DENUNCIANTE
+
+[Header]
+MARGARET MORROW
+DECLARACIÓN REGISTRADA — 02/11/1998
+
+[dialogue]
+AGENTE HARRIS: ¿Cuándo fue la última vez que vio a su hija?
+MARGARET MORROW: El sábado. Antes de que saliera.
+AGENTE HARRIS: ¿Recuerda a qué hora? 
+MARGARET MORROW: No exactamente. Era por la tarde.
+AGENTE HARRIS: ¿A dónde dijo que iba?
+MARGARET MORROW: A salir. Era Halloween. Me imagino que quería ir a pedir dulces...
+AGENTE HARRIS: ¿Le dijo con quién iba a estar?
+MARGARET MORROW: No...
+AGENTE HARRIS: ¿Cuándo se dio cuenta de que no había regresado?
+MARGARET MORROW: Pensé que volvería más tarde. Después pensé que quizá se había quedado con alguien.
+AGENTE HARRIS: ¿Por qué no llamó a la policía esa misma noche?
+MARGARET MORROW: Ellie a veces se iba por su cuenta. No era algo nuevo.
+AGENTE HARRIS: ¿Tiene algún amigo o compañero con quien pudiera haberse quedado?
+MARGARET MORROW: Supongo que no. No creo que tenga amigos. 
+AGENTE HARRIS: ¿Ha intentado comunicarse con alguno de sus compañeros de clase o conocidos que interactúan seguidamente con ella?
+MARGARET MORROW: No. No sabía a quién llamar.
+
+[Line]
+
+[subtitle]
+03. INFORMACIÓN ADICIONAL
+
+[dialogue]
+La denunciante describe a Ellie como una menor de carácter reservado, con tendencia a pasar tiempo fuera de casa y a visitar lugares de los alrededores de Bellwether.
+No se proporcionó una lista completa de amistades o contactos habituales de la menor.
+La señora Morrow no pudo confirmar si Ellie tenía previsto regresar a una hora determinada durante la noche de Halloween.
+Tampoco pudo precisar si la menor llevaba consigo dinero, una bolsa de dulces u otras pertenencias al abandonar el domicilio.
+No se reportaron amenazas conocidas ni conflictos recientes con personas ajenas a la familia durante esta entrevista.
+
+[Line]
+
+[subtitle]
+04. OBSERVACIONES DEL AGENTE
+
+[dialogue]
+La denunciante se mostró cooperativa durante la elaboración del informe.
+Sin embargo, presentó dificultades para establecer una cronología precisa de los acontecimientos y no pudo proporcionar información concreta sobre los planes de su hija durante la noche de Halloween.
+La demora en presentar la denuncia deberá tenerse en cuenta durante la reconstrucción de los últimos movimientos de la menor.
+Se recomienda realizar entrevistas adicionales con familiares, compañeros de escuela y personas que frecuentaran los lugares habituales de Ellie Morrow.
+No se dispone actualmente de información suficiente para determinar las circunstancias de su desaparición.
+
+[Line]
+
+[Header]
+ESTADO DEL INFORME: REGISTRADO
+CLASIFICACIÓN: PERSONA DESAPARECIDA
+FECHA DE ARCHIVO: 02 DE NOVIEMBRE DE 1998
+
+[header]
+DEPARTAMENTO DE POLICÍA DE BELLWETHER
+MP-98-1102

@@ -1,0 +1,180 @@
+[Header]
+PERSONS OF INTEREST
+
+Las siguientes personas permanecen detenidas en relación con la investigación por la muerte de Ellie Morrow.
+Las detenciones fueron autorizadas tras la revisión de los testimonios iniciales, las declaraciones de los implicados y las irregularidades detectadas durante la investigación.
+Ninguno de los tres ha proporcionado una explicación satisfactoria de determinados hechos relacionados con la desaparición de la víctima.
+No se ha podido confirmar el paradero de ninguno durante el periodo relevante del 31 de octubre.
+
+[Line]
+
+++==++++++++*+*+++++++++==-+++=+=++=++=========++-+==+++=-===+-++==+
+++++++++++++++*+=+++==++=+---=.-.::.:---=.-:=:.=++=-=+=+=::-:+.=+=--
+++++=++++*+++**+=====*===--=--::-:::::.:::-=---==+++++++++++++++++++
++===**++*++++**++=+++++==--:--:::::--==-:--::------==+++++++++++++++
+===++++++=+++**++***+*=----..::..:::-:--::--:::::-::-=++++++++++++++
+*=++++++++=++**+*#+++=----:::::::.::........::....-::::+++++++++++++
+%%*+====+++++#**+=-::==+========--::-:::::.........:-:.-++++++++++++
+###*%*+===+++*+*+----****+*+++++===--::::::::......:...:=+++++++++++
+###*#*#**++++**+==--*####***+++====--------::::::.......:++++=+=++++
+#%####*#***#***=---+####***+++======--------:::::::....:.++*+=--++=+
+***#****##*****=+==**#*****++=+==--=------:::::--::.....:=#*########
+*****+***#**+==---=***#*****++==---==-----:::::::::......=**#####*##
++*+*#******+*+=:::=*###**+++====-====------::::::::......+#####**##*
+++++*++++***+==-:-**#**++===---------------::::::::.....:*#*#****##*
+=++====+++*+++-=-****+=--::::::::-:::::::..::::::-::....:+****###***
+=++========+===-+#*+=-:........----::.... ...:::::-:..:::=#********#
+=============+*=*#*=-=--::::.::-+=-:.:..........::-::.-::+**********
+*+====-=-=-=+++-+##**++==----==*+=-::::::::::::::--::.:-:***********
+=+++--:--=++=-*-+*****+==++++****=-:::::--::--:-----::::-=++++++==++
+=+=+=-:::=+--=+++****++++++==****=-:::::-----:::----::::==+++++++===
+==--=--=++-::--##**++++++=--=#**=--::::::----:::::--:::==+===+=+=++=
+:--:::=++=:::::*#*++++==--:-=-:-::::.::::::::::::::-:-=+++++++++===+
+.::-:=++=-=-:::-=**++==--:-=++--:::::::::::::::::::-==++=+=+++++++++
+..:-+==--:--===-=**++==--===++==::-::::::::::::::::-====+++==+++=++=
+-..:--:::-=-+--=-=**++===---+=-----::::::::::::::::=+++=+++=====++++
+-...:::.:::---::--**+++=-::---:::........:::::::::-==++==+===++=+==+
+-.::::....:-:-:=::-*+++---====--:::::::::::::::::-=+++==++=+====-=+=
+:...........:..:-.-*++=======-::::::::::::::::::=+++=====+===---=+==
+=-...........---.-##*=+==+++====---:::::::::::::.++++++++++++++====+
+:..........----:.*%#**+===+++==-----:::::::::::. .-=+++++++++++++=-=
+--:::.-::------..+#+**++=-----:::::::::::::::::   .-++==++++++++=+==
+---:.:..:----::..-====+++=-::::::::...:.:::::::   ..=====+++++++++++
+----:....::-::-..:=+-=-====--::::::::::::::::...  . ..::-+++++++=+=+
+:::::....:::::::.:-@=*----==--:::::::::::::.....    .......:=++=++==
+
+
+01 — THOMAS REED
+ESTADO: DETENIDO
+OCUPACIÓN: Sheriff de Bellwether
+RELACIÓN CON EL CASO: Responsable de la investigación original.
+
+[dialogue]
+Reed estuvo a cargo de la búsqueda inicial de Ellie Morrow y tuvo acceso directo a los informes, testimonios y registros relacionados con el caso.
+Durante la revisión de los archivos se encontraron varias irregularidades en su gestión:
+- Un sector del bosque al norte del río fue excluido de las búsquedas por orden directa de Reed, sin una evaluación documentada del terreno.
+- Dos declaraciones de voluntarios que afirmaban haber visto actividad cerca de dicho sector no aparecen en el informe final.
+- Reed aseguró haber realizado una inspección personal de ciertas zonas, pero no existen registros que confirmen dichas visitas.
+- Se detectaron diferencias entre algunas anotaciones originales y las copias archivadas posteriormente.
+Cuando se le solicitó explicar estas discrepancias, Reed se negó a entregar determinados documentos y ordenó suspender la revisión interna.
+Reed afirma que sus decisiones respondieron a limitaciones de personal y a la necesidad de concentrar los recursos disponibles.
+No se ha localizado ningún testigo que pueda confirmar sus actividades durante la noche del 31 de octubre.
+
+[Line]
+
+::.:::---=++=::.:::.::::::::.......:::--==--=--:...........:........
+--:::::----=+=-:....:::--:...:....:----:::--==+++==:......:..:.:....
+==--:=:--:-=-=-:::.::--:..:......::..::-:---:---++====-:..::.::::::.
+**+=--:--==-----:::-=-::..::::....:::-:.::--====-==+==---:::::::::::
+####*====++=-=--::=+==-:..:......:::----::::-+======----=-:::::::::.
+#######*=++=-=-=--====---:-:::.:.::====-==-=-=++=+==+=:-:-=:::.:::::
+#%######*==-===-----=-=++++=-:-::::-:----:-+++++++=+==+:-:--:...::::
+########*+--=-=-=-----=+****++-=---==+==+=====+--:----=--::--::.:...
+%######***=-+==-=--::--+***#****+====+=++++=+=---::::::::-:.:::.....
+#######***+---=-=-:::-+***##########**+=-===++::::::...::.::.::.....
+######****+:--=--::::+*****######%%%%###+=----==:::..........::.....
+###********=:----::-++*****#######%%%#%###*+-:::::::..........:..:..
+******#**++=:::-:::=+******#######%%%%######**+-:...................
+*##**#*****+::::::-======+***#############*******+:::...............
+*++..:-=+++=--::::-=+****+--=+*#####*++-=+*###**+-++=:.....++.....:.
+**+--++--=++-:::::=++==:::-*=++*###**++==+=-==+*++++++=:..::-.......
+##*********+=:.:::+++-====+*=*+*###*+*==*=--+-:+++*+++==--**=.....  
+*########**++::.:-+*************##*****+***********+++==***+:.::..  
++*##%###***++-::-=++***#####*++*##*****########****++==+***-:..:..  
+*+*#%###***+=--:--+***####****+**#****#########****+===***--:.....  
+#***####***+=--:.-+**#####**++**#*******####%##***++==***--::::.....
+#****###***+-+:.::++*******+++**##*******+*####***++== ...::::::....
+#****#****+=--::--==+++++***+-=***+=--****++*****+++=-......::-:... 
+**=*##***+=-=:.--:=+++**++*****+-=*##*******++++++++=::....::::.....
+#=*####**=-:...:--:++*#***==*===+++++=====-++****++=--:...:::--:.::.
+**####*+=-.::-::-=::++*#**+==+%%%%%%%##*++*#*****++===:::::--=-:::::
+#*##**=:. ...-:::=--.=+*****+++++*++++++********++==++-::::---=+=---
+###*=:. ..-=:...:-=--.:=+*********++*****#*****+=-=+*++=-:::=--==---
+*+--: .::::+=::.::--==..-+*********##**##*#*++=--+**++++::::-=:::---
+==- ..:.::...:.:::----:: .+******####**#**+==::+****++==-::::-:::::-
+.  ..:::::::....:::-----:..-+*****####**+=::-+*******+-=:::::-:::::-
+....:-:-+--::::.:--:-----.. ..==+++++==:::=++********=-:-:::.:::::::
+...:-::==--::-.:.-:::--:-:-:.  .. ..::::-+-+********=-:-::::...::.::
+..:.::---::-::::.::-::--:::::..--.  ..:=++==++==+++--::.::.:::....::
+
+
+02 — MARGARET MORROW
+ESTADO: DETENIDA
+OCUPACIÓN: Sin empleo registrado
+RELACIÓN CON EL CASO: Madre de la víctima.
+
+[dialogue]
+Margaret fue la última persona que confirmó haber estado con Ellie antes de su desaparición.
+La investigación reveló antecedentes de violencia doméstica dentro de la vivienda familiar. Aunque nunca se presentó una denuncia formal, existen testimonios que describen discusiones frecuentes y episodios de agresión física por parte de Margaret hacia su hija.
+Durante los meses anteriores a la desaparición se registraron los siguientes incidentes:
+Una vecina informó haber escuchado gritos y golpes procedentes de la vivienda. Al ser interrogada, Margaret reconoció una discusión, pero negó haber agredido a Ellie.
+- Mrs. Evelyn Foster, profesora de Ellie, informó que la menor había llegado en varias ocasiones a clase con marcas visibles. Ellie evitaba explicar su origen.
+- Una compañera de clase declaró que Ellie había expresado en más de una ocasión su deseo de pasar menos tiempo en casa.
+- Margaret reconoció que la relación con su hija era conflictiva, aunque describió los incidentes como problemas disciplinarios habituales.
+El 31 de octubre, Margaret y Ellie mantuvieron una discusión en su domicilio. Margaret confirmó que perdió los nervios, pero inicialmente omitió la intensidad del enfrentamiento.
+El reporte de desaparición fue presentado el 2 de noviembre, aproximadamente dos días después de que Ellie fuera vista por ella por última vez.
+No se ha localizado ningún testigo que pueda confirmar sus actividades durante la noche del 31 de octubre.
+
+[Line]
+
+:..::--:::::.:::::.-.:=:+--==.-:--:::::::-:::--+###----=-=======+=--
+:.::::-::----:-:--:-=#*=#**++===##%*#*:::--=*+=*+*#:--:=--====-=-=:=
+::---------=---***+++++++++***+##%*+#*++**===+**+%#+=-:-==--=====--=
+:::::------:-********+++++++*==*+##+++########*#*##+--:------=--=:-+
+-::--=--::-:=**+**************%#+****##********#*##*:::-==--:-=--:-=
+:--::::::::-***********+++*****#*#*#*####*********#*:--==----=-==--=
+-----:---:-#*******+++*+=+#######**+====++***#***#*#--::-:--=+-=====
+::-----:-:=#******+=+*#*##*+-................::-+**#-:-.:-:-==--====
+-::::--:::=#**+=-**###**-........................::=*+::::::++-====-
+-:-:::::--**=:+**#***=.............:::::::.........::-*+-::---=----=
+:-::.--::-=:#*****+-...........::::::::::::....... ...:-=---=-=--:--
+--:-:-.::-:-+##*=...........::::::::::::::::............-:--==-::-:-
+:::.::::::.===-:::......:::::::::::::--::::::......*+..::-==-=---=+*
+::.::::.:-++=-+=-:::........::--------:::..........#%%:-----==-=+===
+:...:-.:-++=-+**+=--::::::::::::--==--:::::::::...+%%%:::.-==:==-:=*
+:.:::::+*++-=+****===-::....:::--===-::::...-:----+=%%#=-::=---:-+++
+::..:::=-=++==****==-:-----------===-:-:-::---:-=++==%%::==:-+-=++==
+::..::::=*++==*******++===-=======++==-----=====+++==+%==--==++#+%%#
+:-:.:..:=+=-*+**********++++++++++**+=+++++=+=+++++=-=%%.:+***#*+**+
+--:::::::*=+*+*******####*##*+++**##*++**********+++--+%::+++#***+==
+::::::::-**#+*******#*****+=-+***###***+=+******++*+==+#*==+++==*+++
+::-::::::+#**********+++=--+++=::======++-==++++++**===*#--==-===+==
+.:-:::::::=**+******++=--=+**+*++----=++*+=:==++=+====-+#==----===-:
+..:::.:::::-::+****+*+===+++++++++++++++++++=++++===-**=*+-=--=+=-**
+::::::-:::---:=+++*+++*+=--.:-========-.:--=+*+++=====+**=--:-==-=++
+.::::-::::::::-++++++++**+*******++++*****+++++==+--===**+++++*+-=++
+-:-:-:::::::-+=++++++++*********+++++++****++++++*++*++++********#==
+:.::.:---.-+--:**+++++*+***#*#***+++++**#**++++-+*+*+***===++*++--+*
+:::.:::-::*=:.-***+++++++**###**##*#####**++==++++*******+--===--=++
+:.-::::=**+:.-*****++====++***#***##*##**+=-=++*+---=+*****=--=--=+=
+:-::+###**+-:+*****+++======+++++++=+=++=-==+++*=-+==++=-==+*===--==
+:+##*******=:+#*****+++=====-=====-------====-*.:-#%%%##--++===-=--=
+*#*********+-=+##***++++=======----------==-#----*%%####=+=====--===
+#*****#*****====***+*+++++=====-----------++::-=#%%####:---:--=====-
+
+
+03 — WALTER HAYES
+ESTADO: DETENIDO
+OCUPACIÓN: Propietario de The Corner Diner
+RELACIÓN CON EL CASO: Conocido de la víctima.
+
+[dialogue]
+Hayes no conocía personalmente a Ellie, pero ella frecuentaba The Corner Diner.
+Varios residentes confirmaron que la menor visitaba el establecimiento con cierta regularidad. Sin embargo, ninguno pudo precisar cuándo la vio por última vez.
+Durante la investigación se detectaron contradicciones entre las declaraciones de Hayes y los registros del establecimiento:
+- En su primera declaración afirmó que no había visto a Ellie durante los días previos a su desaparición.
+- Posteriormente reconoció que la menor había visitado el establecimiento el 31 de octubre.
+- El registro de ventas correspondiente a esa noche presenta una entrada incompleta que Hayes no pudo explicar.
+- Una empleada declaró que Hayes solicitó retirar varios comprobantes antiguos del mostrador y limpiar el área de almacenamiento antes de que la policía pudiera inspeccionarla.
+- Hayes afirma que se trataba de tareas rutinarias y que no tenía motivos para ocultar información.
+No se ha encontrado ningún testigo que confirme sus actividades durante la noche del 31 de octubre.
+
+[Line]
+
+[subtitle]
+DISPOSICIONES DE INVESTIGACIÓN
+
+[dialogue]
+Los tres individuos permanecen detenidos en habitaciones separadas de las instalaciones del Departamento de Investigación.
+Se autoriza al investigador asignado a realizar entrevistas individuales con cada uno de ellos.
+Las entrevistas deberán registrarse y adjuntarse al expediente correspondiente.
