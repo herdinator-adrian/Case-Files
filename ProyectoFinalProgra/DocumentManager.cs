@@ -7,11 +7,14 @@ public class DocumentManager
 	{
 		("", new string[]{
 			introductoryFile,
+			"map_bellwether.txt",
 		}),
 		("documents", new string[]{
 			"case_overview.txt",
 			"disappearance_report.txt",
 			"body_recovery_report.txt",
+			"official_suspect_list.txt",
+			"search_timeline.txt",
 		}),
 		("evidence", new string[]
 		{
@@ -19,7 +22,8 @@ public class DocumentManager
 		}),
 		("interviews", new string[]
 		{
-			
+			"margaret_interview_01.txt",
+			"margaret_interview_02.txt",
 		}),
 		("emails", new string[]
 		{

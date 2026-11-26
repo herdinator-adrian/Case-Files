@@ -1,0 +1,351 @@
+[Header]
+ENTREVISTA — Walter HAYES
+
+[Line]
+
+ENTREVISTA: 03
+FECHA: 17 DE NOVIEMBRE DE 1998
+LUGAR: DEPARTAMENTO DE INVESTIGACIONES
+ENTREVISTADO: Walter HAYES
+
+[Line]
+
+[Header]
+INICIO DE GRABACIÓN
+
+[pause=2]
+
+[dialogue]
+Investigador: Como ya sabe, esta entrevista está siendo grabada. ¿Como está, señor Hayes?
+Walter: Bueno, este no es precisamente mi lugar favorito, pero estoy bien.
+¿Cree que pronto ya podré salir de la detención? Tengo un restaurante del cual me debo de encargar.
+Investigador: Hemos hablado con sus empleados.
+Walter: Ah, sí. ¿Jessica y Daniel? ¿Están bien?
+Investigador: Ambos han colaborado con nosotros.
+Walter: Me alegra escucharlo. Son buenos chicos.
+Investigador: Daniel nos ha contado algunas cosas sobre la noche del treinta y uno de octubre.
+Walter: ¿Ah, sí?
+Investigador: Dice que Ellie estuvo en el Corner Diner.
+Walter: ...
+Investigador: También dice que usted la atendió.
+Walter: Bueno...
+Investigador: ¿Quiere corregir su declaración anterior?
+Walter: Mire, ya le expliqué que no recuerdo haberla visto esa noche. 
+Si Daniel dice que estuvo allí, quizá tenga mejor memoria que yo.
+Investigador: No parece una respuesta muy convincente.
+Walter: No estoy intentando convencerlo de nada. Solo digo que han pasado un par de semanas. Es posible que no recuerde algo que ocurrió durante el trabajo.
+Investigador: Daniel no parece tener dudas sobre lo que vio.
+Walter: Entonces quizá debería preguntarle a él.
+
+[pause=2]
+
+[dialogue]
+Investigador: Daniel recuerda que Ellie llegó aproximadamente a las siete, acompañada por un adulto.
+Walter: Ya veo.
+Investigador: Dice que fueron los últimos clientes en entrar al establecimiento.
+Walter: Puede ser.
+Investigador: También recuerda... 
+Recuerda que usted habló con Ellie cuando salió del baño.
+Walter: ...
+Investigador: ¿Eso tampoco lo recuerda?
+Walter: No sé qué quiere que le diga.
+Investigador: Quiero que me diga la verdad.
+Walter: Mire, tal vez eso pasó, pero no recuerdo muy bien todo eso.
+Puede ser que me esté confundiendo con otro día.
+O incluso Daniel puede estar recordando mal las cosas, es un chico despistado.
+Pero le aseguro que yo estoy diciendo la verdad.
+
+[pause=2]
+
+[dialogue]
+Investigador: Hablemos de lo que ocurrió después. Daniel dice que Ellie fue al baño y que usted la abordó cuando salió.
+Walter: No sé de que me habla.
+
+[pause=2]
+
+[dialogue]
+Investigador: Walter.
+Walter: ...
+Walter: No, no. Mire, yo...
+No sé qué cree que vio Daniel, pero quizá no entendió la conversación. No fue nada importante.
+Investigador: ¿Entonces sí recuerda haber hablado con ella?
+Walter: Yo...
+Investigador: Acaba de decir que Daniel pudo haber malinterpretado una conversación.
+Walter: Bueno, es que... ¡No sé! Han pasado dos semanas. 
+No puedo recordar cada pequeña conversación que tuve con un cliente. Ya sabe cómo son las cosas. Ja, ja...
+Investigador: ¿Por qué está tan nervioso?
+Walter: No estoy nervioso.
+Investigador: Está tartamudeando desde que mencioné a Ellie.
+Walter: Porque no entiendo qué quiere que diga. Ya le he explicado que no recuerdo...
+Investigador: Walter, tenemos la declaración de Daniel. Sabemos que Ellie estuvo allí y que usted habló con ella. ¿Por qué no lo admite?
+
+[pause=2]
+
+[dialogue]
+Walter: ¡Y-Yo no le hice nada!
+Investigador: No he dicho que lo hiciera.
+Walter: ¡No tuve nada que ver con ella! ¡Se lo juro!
+Investigador: Walter, escúcheme.
+Walter: ¡Yo no hice nada! Yo no... Yo no le hice nada.
+Investigador: Tiene derecho a no responder mis preguntas. Pero si sigue negando hechos que ya han sido confirmados por un testigo, será mucho más difícil aclarar lo que ocurrió.
+Walter: ...
+Investigador: No hay nadie que pueda confirmar dónde estuvo después de cerrar el diner. Y ahora sabemos que usted fue una de las últimas personas que vio a Ellie.
+Walter: ¡Pero eso no significa que yo...!
+Investigador: No he dicho que signifique eso.
+Walter: ...
+Investigador: Por ahora, usted es uno de los principales sospechosos. 
+Usted se le insinuó a Ellie, ¿no es cierto?
+Walter: ¡No!
+Investigador: Las pruebas dicen lo contrario.
+Walter: Yo...
+No sé qué quiere que le diga.
+Investigador: Seguro tuvo una razón para ocultarlo.
+Pero si de verdad no hizo nada, hábleme.
+Las cosas irán en contra de usted si se mantiene en silencio.
+Necesito que me explique qué ocurrió.
+Ayúdeme a encontrar al verdadero culpable.
+
+[pause=2]
+
+[dialogue]
+Walter: Es que...
+Yo...
+De verdad quisiera ayudarlo, investigador, pero...
+Investigador: Daniel dice que usted estaba muy afectado después de esa conversación.
+Walter: Yo... Sí.
+Investigador: También dice que decidió cerrar temprano.
+Walter: No quería seguir allí.
+Es que... me sentía como un idiota.
+¡No puedo creer lo estúpido que soy!
+Un idiota, eso es lo que soy. Un completo estúpido.
+Investigador: Walter, cálmese. ¡Deje de golpearse!
+
+[pause=2]
+
+[dialogue]
+Walter: ...
+Es que no...
+¿Cómo pude haber pensado eso en primer lugar...?
+Soy un idiota...
+
+[pause=2]
+
+[dialogue]
+Investigador: ... 
+¿Siente culpa? ¿Por haber incomodado a Ellie?
+
+[pause=2]
+
+[dialogue]
+Walter: Es más que eso...
+Usted sabe lo que pasó en el pasado.
+Uno esperaría que habría aprendido de mis errores.
+Uno esperaría que...
+Todo el trabajo que me costó construir lo que tengo... mi trabajo, el diner, mi relación con las personas...
+Por cometer semejantes estupideces...
+Ya lo perdí todo una vez.
+Todo el mundo me miraba mal. Las personas que disfrutaban mi comida ahora me miraban con desprecio...
+Tuve que volver a ganarme la confianza de las personas. Demostrar que soy un buen hombre.
+Y ahora... lo perderé todo otra vez.
+No sé si seré capáz de ver a alguien a la cara otra vez.
+Investigador: Dígame una cosa, Walter.
+¿Usted puede decir con certeza y jurando que está diciendo la verdad, que usted se fue a su casa esa noche y no tuvo nada que ver con la muerte de Ellie?
+Walter: Sí.
+Investigador: Entonces, aún está a tiempo de hacer lo correcto.
+Cuénteme. Cuéntemelo todo.
+Así por lo menos me ayudarás a encontrar a quien pudo haberle hecho eso a Ellie?
+¿Cree que puede hacer eso? ¿Por Ellie?
+
+[pause=3]
+
+[dialogue]
+Walter: ...
+Yo... la vi.
+Investigador: ¿A Ellie?
+Walter: Sí.
+Investigador: ¿La noche del treinta y uno?
+Walter: Sí...
+Estuvo allí.
+Vino con un hombre. No lo conocía. Se sentaron, pidieron algo de comer y... bueno, yo los atendí.
+Después Ellie fue al baño.
+Investigador: ¿Y usted habló con ella?
+Walter: Sí.
+Investigador: ¿Qué le dijo?
+Walter: No recuerdo las palabras exactas.
+Investigador: Inténtelo.
+Walter: Le dije que era agradable verla. Que hacía tiempo que no hablábamos.
+Quizá le dije que podría pasar más tiempo por aquí.
+Y... que ella me parecía maravillosa.
+Investigador: ...
+Walter: Claro. Me dijo que dejara de hacer esos comentarios.
+Que le incomodaba cómo la trataba.
+Investigador: ¿A qué se refería?
+Walter: A que estaba siendo demasiado familiar con ella.
+Investigador: ¿Había hecho comentarios similares antes?
+Walter: ...
+Sí.
+Investigador: ¿Cuántas veces?
+Walter: No lo sé.
+Investigador: ¿Una? ¿Dos? ¿Más?
+Walter: No lo sé, señor. No llevaba la cuenta.
+Investigador: ¿Y nunca se dio cuenta de que la incomodaban?
+Walter: Yo...
+Sabía que estaba mal.
+Tal vez no quería verlo.
+Investigador: ¿Qué hizo después de que Ellie se lo dijera?
+Walter: Me disculpé.
+Cuando me lo dijo en la cara fue como recibir un golpe en el estómago.
+De inmediato me arrepentí y desde ese momento, pensé que lo mejor sería nunca más acercarme a ella.
+Ya sabía que lo que estaba haciendo estaba mal... pero en ese instante, la magnitud de la situación...
+Nunca me imaginé que Ellie desaparecería esa misma noche.
+Investigador: ¿Y ella? ¿Que hizo después?
+Walter: Volvió a la mesa. No dijo nada más.
+Investigador: ¿El hombre que la acompañaba se dio cuenta de lo ocurrido?
+Walter: No lo sé. No creo.
+Investigador: ¿Hablaron entre ellos?
+Walter: Sí, pero no pude escuchar nada.
+Investigador: ¿Cuánto tiempo permanecieron?
+Walter: Unos minutos. Después pagaron y se fueron.
+Investigador: ¿Y cómo es que se dio cuenta de que Daniel había escuchado?
+Walter: No había mucha gente, así que estaba silencioso. Además, la cocina está al lado de donde estábamos hablando.
+Pude notar en el comportamiento de Daniel que por lo menos había escuchado una parte.
+Investigador: Entonces, ¿Y qué hizo después?
+Walter: Cerré el diner y me fui a casa.
+Investigador: ¿Vio a Ellie o a su acompañante después de que se marcharan?
+Walter: No.
+Investigador: ¿Sabe adónde fueron?
+Walter: No.
+Investigador: ¿Sabe quién era el hombre?
+Walter: No, señor.
+Investigador: ¿Había visto a ese hombre antes?
+Walter: No lo recuerdo.
+Investigador: ¿Y Ellie le dijo algo sobre él?
+Walter: No.
+Investigador: ¿Le contó que fueran a algún sitio después?
+Walter: No.
+Investigador: ¿Está seguro de que no sabe nada más?
+Walter: Sí. Eso es todo lo que sé.
+
+[pause=2]
+
+[dialogue]
+Investigador: Entonces, ¿por qué pidió a sus empleados que ocultaran lo ocurrido?
+Walter: ...
+Investigador: Daniel dice que usted les pidió expresamente que no mencionaran la visita de Ellie.
+Walter: Sí.
+Investigador: ¿Por qué?
+Walter: Tenía miedo.
+De que alguien se enterara de lo que le había dicho a Ellie.
+Investigador: ¿Temía que Ellie contara lo ocurrido?
+Walter: Sí.
+A su madre, a sus compañeros, a la policía... No lo sé. A cualquiera.
+Supe exactamente qué es lo qeu pasaría si lo contara... La gente habría empezado a hablar. Habrían recordado lo de aquella chica y todo habría vuelto a empezar.
+Investigador: ¿Y por eso decidió ocultar que la había visto?
+Walter: Sí.
+Investigador: ¿Incluso después de saber que estaba desaparecida?
+Walter: Sí...
+Investigador: ¿Incluso después de que encontraran su cuerpo?
+Walter: ...
+Sí.
+
+[pause=3]
+
+[dialogue]
+Walter: Soy un cobarde.
+Yo sabía que decirlo era lo correcto. Desde el principio sabía que tenía que contarlo.
+Pero no podía...
+No podía dejar que todo el mundo supiera lo que había hecho.
+Me insinué a una niña.
+Una niña de trece años.
+Y cuando me dijo que dejara de hacerlo, me di cuenta de lo repugnante que era.
+Soy un egoísta.
+Porque lo único que me importaba era que nadie se enterara.
+No pensé en ella. No pensé en lo que podía haberle pasado.
+Solo pensé en mí.
+Investigador: ¿Ha estado preocupado por esto desde entonces?
+Walter: ...
+No he podido dormir.
+Investigador: ¿Desde cuándo?
+Walter: Desde esa noche. Desde que desapareció.
+Cada vez que cerraba los ojos pensaba que quizá se lo había contado a alguien.
+Que quizá había hablado con su madre, con algún amigo, con la policía...
+Y que tarde o temprano alguien vendría a preguntarme.
+Investigador: ¿Y cuando supo que Ellie había muerto?
+Walter: Fue peor.
+Mucho peor.
+Investigador: ¿Por qué?
+Walter: Porque ya no podía arreglar nada.
+No podía disculparme. No podía explicarle que...
+No sé. Que no quería hacerle daño. Que cometí un error.
+Investigador: ¿Se siente culpable?
+Walter: Me siento como una escoria.
+Investigador: ...
+Walter: Una niña está muerta y yo estaba más preocupado por mi reputación que por decir la verdad.
+Y porque...
+Porque durante dos semanas he estado pensando en lo que ella pudo haber dicho de mí.
+No en lo que le había pasado a ella.
+
+[pause=2]
+
+[dialogue]
+Walter: ¿Qué clase de persona hace eso?
+
+[pause=3]
+
+[dialogue]
+Walter: ...
+¿Cree que...?
+Investigador: ¿Qué?
+Walter: ¿Cree que van a pensar que la maté?
+Investigador: No puedo decirle qué van a pensar. Solo puedo decirle que seguiremos investigando.
+Walter: ...
+Yo no la maté.
+Tiene que creerme.
+Investigador: Lo sé. Pero necesito que entienda que ocultar información nos ha obligado a considerar esa posibilidad.
+Walter: Ya... Lo entiendo.
+Entonces, ¿el hombre que estaba con ella pudo haberlo hecho?
+Investigador: Aún faltan muchas pruebas para poder determinarlo. En este momento, cualquiera pudo haberlo hecho.
+Gracias por colaborar, señor Hayes.
+Walter: ...
+Investigador: Por ahora hemos terminado.
+
+[pause=3]
+
+[Header]
+FIN DE GRABACIÓN
+
+[Line]
+
+[Subtitle]
+NOTAS DEL INVESTIGADOR
+
+El entrevistado mostró un estado de nerviosismo considerable desde el inicio de la sesión. A diferencia de las entrevistas anteriores, tuvo dificultades para mantener una conversación coherente, presentó frecuentes interrupciones y contradijo sus propias respuestas al intentar justificar su declaración anterior.
+
+Inicialmente insistió en que no recordaba haber visto a Ellie durante la noche del treinta y uno de octubre. Atribuyó las discrepancias a posibles errores de memoria y cuestionó la fiabilidad del testimonio de Daniel Price.
+
+Al ser confrontado con los detalles específicos de la declaración, su actitud cambió notablemente. Elevó la voz, se golpeó a si mismo y negó de manera desesperada cualquier participación en la muerte de Ellie, aunque todavía no se le había acusado directamente de ello.
+
+Finalmente reconoció que Ellie acudió al establecimiento acompañada por un hombre adulto. Admitió haber realizado comentarios de carácter inapropiado hacia la menor y confirmó que ella expresó su incomodidad. También reconoció haberse disculpado.
+
+El entrevistado confirmó que cerró el establecimiento antes de lo habitual y regresó a su domicilio. No proporcionó información adicional sobre el hombre que acompañaba a Ellie ni sobre el destino de ambos después de abandonar el diner.
+
+Respecto a la omisión de información, admitió haber pedido a sus empleados que no mencionaran la visita de Ellie. Explicó que actuó por temor a que el incidente reabriera las sospechas relacionadas con la denuncia de 1988.
+
+Durante esta parte de la entrevista presentó un deterioro emocional evidente. Manifestó que llevaba dos semanas sin poder dormir adecuadamente y que había estado preocupado por la posibilidad de que Ellie hubiera contado a alguien lo ocurrido entre ambos.
+
+Reconoció que su principal preocupación había sido proteger su reputación y que, incluso después de conocer la muerte de Ellie, no había colaborado con las autoridades. Se describió a sí mismo como cobarde y expresó sentirse avergonzado por sus acciones.
+
+Al finalizar la sesión, el entrevistado se mostró emocionalmente afectado y reiteró que no había participado en la muerte de Ellie.
+
+[Line]
+
+[Subtitle]
+OBSERVACIONES
+
+La declaración confirma que Walter Hayes mantuvo contacto con Ellie durante la noche del treinta y uno de octubre y que deliberadamente ocultó esta información a las autoridades.
+
+Su comportamiento hacia la menor y la posterior petición de silencio explican su resistencia a colaborar durante las primeras entrevistas. No obstante, sus declaraciones no aportan evidencia directa de que participara o no en su muerte.
+
+La identidad y el paradero del hombre que acompañaba a Ellie continúan sin determinarse.
+
+Se recomienda continuar verificando las actividades de Hayes después del cierre del establecimiento y mantener abierta la investigación sobre el acompañante de Ellie.

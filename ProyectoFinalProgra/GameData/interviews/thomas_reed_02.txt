@@ -1,0 +1,234 @@
+[Header]
+ENTREVISTA — Thomas REED
+
+[Line]
+
+ENTREVISTA: 02
+FECHA: 18 DE NOVIEMBRE DE 1998
+LUGAR: DEPARTAMENTO DE INVESTIGACIONES
+ENTREVISTADO: Thomas REED
+
+[Line]
+
+[Header]
+INICIO DE GRABACIÓN
+
+[pause=2]
+
+[dialogue]
+Investigador: Esta es nuestra segunda entrevista, sheriff.
+Thomas: Ajá.
+Investigador: Desde la última vez que hablamos, hemos revisado algunos testimonios y hablado con varios miembros de su departamento.
+Thomas: ¿Y qué? ¿Ahora van a interrogar a todo el pueblo hasta que alguien diga lo que quieren escuchar?
+Investigador: No estamos buscando que alguien nos diga algo en particular. Estamos intentando comprobar si la información que nos proporcionó es correcta.
+Thomas: Ya respondí a sus preguntas.
+Investigador: Algunas de sus respuestas no coinciden con lo que hemos averiguado.
+Thomas: Entonces quizá debería preguntarle a la gente que realmente estuvo allí. Yo no tengo tiempo para corregir los rumores de cada vecino.
+Investigador: Precisamente eso es lo que vamos a hacer.
+
+[pause=2]
+
+[dialogue]
+Investigador: Quisiera volver a hablar sobre las denuncias relacionadas con la situación familiar de Ellie.
+Thomas: Otra vez con eso...
+Investigador: En nuestra primera entrevista dijo que el departamento había recibido algunas llamadas, pero que eran preocupaciones poco concretas. 
+También afirmó que se habían realizado las comprobaciones correspondientes.
+Thomas: Y eso es lo que ocurrió.
+Investigador: Hemos hablado con Doris Whitaker. Es vecina de los Morrow. Afirma que llamó a la policía en varias ocasiones durante el último año.
+Thomas: ¿La señora Whitaker?
+Investigador: ¿La conoce?
+Thomas: Por supuesto. Vive pendiente de lo que hacen los demás. 
+Si alguien deja una ventana abierta, probablemente llama a la policía para informar de ello.
+Investigador: Según su declaración, escuchó discusiones frecuentes en la casa de los Morrow, muchos gritos.
+Thomas: ¿Y qué quiere que haga con eso? ¿Debo tomar como verdad todo lo que diga una mujer que no tiene nada mejor que hacer que espiar a sus vecinos?
+Está claro que habría discusiones en esa casa cuando la madre tiene que lidiar con una hija como Ellie.
+Investigador: No estoy diciendo que su testimonio sea suficiente para demostrar un delito. 
+Estoy preguntando qué hizo usted cuando recibió esas llamadas.
+Thomas: Se atendieron. Se habló con la familia. No encontramos nada que justificara una intervención.
+¿No le contaron eso?
+Investigador: ¿Cuántas veces habló con Margaret Morrow?
+Thomas: Fueron varias. No lo recuerdo.
+Investigador: ¿Y con Ellie?
+Investigador: La señora Whitaker dice que las discusiones eran cada vez más frecuentes. Que llegó a llamar varias veces y que, aun así, no vio ningún cambio.
+Thomas: ¡Porque no había nada que cambiar! ¡No teníamos pruebas!
+Me imagino que usted interactuó con la señora Whitaker, ¿no es cierto?
+Entonces debe conocer lo chismosa que es. Mete sus narices en donde sea porque no tiene nada más que hacer.
+Llamaba a la comisaría por cada mínima discusión que hubiera.
+Supongo que no le contaron que también se la pasa reportando a sus otros vecinos, ¿verdad?
+Investigador: ...
+Thomas: Me lo imaginaba. 
+A cada rato recibíamos llamadas de ella; que el vecino hizo esto, que el hijo del otro vecino hizo el otro...
+No podíamos estar escuchando cada mínima queja que tenía esa señora.
+
+[pause=2]
+
+[dialogue]
+Investigador: Bueno, la señora Evelyn Foster también se comunicó con el departamento.
+Thomas: ¿La profesora?
+Investigador: Sí. Nos dijo que observó marcas en Ellie en distintas ocasiones.
+Según su declaración, ella habló directamente con usted.
+Thomas: No recuerdo esa conversación.
+Investigador: Ella sí. Dice que usted le respondió que Margaret había negado las acusaciones y que Ellie no había confirmado nada directamente.
+Thomas: Pues entonces ya tiene su respuesta.
+Investigador: ¿Eso fue todo?
+Thomas: ¿Qué esperaba que hiciera? ¿Que arrestara a una madre porque una profesora cree haber visto unos moretones?
+Esa niña iba a cada rato al bosque. No sería difícil que se lastimara de vez en cuando.
+Investigador: Esperaba que investigara.
+Thomas: ¡Eso hicimos!
+Investigador: ¿Dónde están los registros?
+Thomas: Ya le dije que probablemente no se documentaron correctamente.
+Investigador: No estamos hablando de un formulario olvidado, Thomas. 
+Estamos hablando de varias llamadas, una profesora que acudió personalmente a usted y una niña que estaba intentando pedir ayuda.
+Thomas: ¡No puede saber eso!
+Investigador: ¿Qué cosa?
+Thomas: ¡Que estaba pidiendo ayuda! ¡Ellie nunca pidió ayuda!
+Así tampoco podíamos hacer nada.
+Era un fastidio...
+
+[pause=2]
+
+[dialogue]
+Investigador: Robert Hale nos contó algo más.
+Thomas: Ah, claro. Hale.
+Investigador: ¿Tiene algún problema con él?
+Thomas: ¿Problema? Ese hombre lleva años esperando una oportunidad para hablar mal de mí. 
+No me sorprende que haya aprovechado esta situación.
+Investigador: Dice que Ellie acudía a la estación con frecuencia durante las semanas anteriores a su desaparición.
+Según él, se sentaba cerca de su oficina y esperaba a que usted pudiera atenderla. A veces se quedaba bastante tiempo.
+Thomas: No sé de qué está hablando.
+Investigador: ¿Está diciendo que Ellie nunca acudió a la estación?
+Thomas: No he dicho eso. Es cierto que venía en cada momento, pero solo se la pasaba sentada, haciendo nada.
+Investigador: Dice que Ellie confiaba en usted y que parecía esperar que pudiera ayudarla con sus problemas en casa.
+Thomas: Robert no tiene ni idea de lo que esa niña quería.
+Investigador: ¿Y usted sí?
+Thomas: ¡Nadie sabía lo que esa niña quería!
+¡A mi me parecía que simplemente quería atención! Nunca dijo nada, simplemente se me quedaba viendo a través de la ventanilla.
+Investigador: ¿Qué hacía cuando ella iba a buscarlo?
+Thomas: Tenía trabajo. No puedo dejar todo lo que estoy haciendo cada vez que una niña aparece en la estación.
+Investigador: Robert dice que en ocasiones usted le pedía que le dijera a Ellie que estaba ocupado.
+Thomas: ¡Porque estaba ocupado!
+Investigador: ¿Nunca se preguntó por qué una niña de trece años regresaba una y otra vez a una estación de policía?
+Thomas: ...
+Investigador: ¿Nunca pensó que quizá necesitaba algo más que una respuesta para que se marchara?
+Thomas: Mire, investigador. Yo tenía un departamento entero bajo mi responsabilidad. 
+Tenía llamadas que atender, patrullas que organizar y un pueblo que mantener en orden. No podía dedicarle media tarde a una niña que probablemente solo quería hablar.
+Investigador: ¿Probablemente?
+Thomas: Sí. ¿Qué otra cosa podía hacer? Nunca me presentó una denuncia formal. Nunca me dijo que su madre estuviera haciéndole daño.
+Investigador: La profesora dice que se lo comunicó. Los vecinos también. Y Ellie acudía personalmente a usted.
+
+[pause=2]
+
+[dialogue]
+Investigador: No estamos diciendo que usted tuviera que saber exactamente lo que ocurría dentro de esa casa. Pero tenía motivos suficientes para preocuparse.
+Thomas: Hice lo que pude con la información que tenía.
+Investigador: Eso mismo dijo sobre la búsqueda.
+Thomas: Porque es la verdad.
+Investigador: Siempre parece tener una explicación para no haber hecho nada.
+Thomas: ¿Disculpe?
+Investigador: Las llamadas no eran suficientemente concretas. 
+Los testimonios no eran suficientemente fiables. 
+La niña no había presentado una denuncia formal. 
+El sector del bosque estaba demasiado lejos. 
+Los recursos eran limitados.
+Estoy intentando entender por qué cada vez que alguien necesitaba que usted se involucrara, encontraba una razón para no hacerlo.
+Thomas: ¡No tiene ni idea de lo que significa dirigir este departamento!
+Investigador: Puede ser. Pero no necesito haber sido sheriff para entender que una niña estaba intentando pedir ayuda.
+
+[pause=2]
+
+[dialogue]
+Investigador: Quisiera hablar ahora sobre la noche del treinta y uno de octubre.
+Thomas: Ya respondí a eso. ¿En serio seguiremos?
+Investigador: Robert Hale también hizo algunas observaciones sobre su turno.
+Thomas: ¿Qué observaciones?
+Investigador: Dice que su puesto de vigilancia permaneció desatendido durante más tiempo del que usted reconoció en nuestra primera entrevista.
+Thomas: Eso es mentira.
+Investigador: ¿Está seguro?
+Thomas: Completamente. Me ausenté unos minutos para atender un asunto. Ya se lo expliqué.
+Investigador: Robert asegura que intentó comunicarse con usted por radio y no obtuvo respuesta durante ese intervalo.
+Thomas: La radio no siempre funciona correctamente en esa zona.
+Investigador: También dice que usted regresó y comentó que había tenido que atender un asunto personal.
+Thomas: ¿Y qué? ¿Ahora tampoco puedo atender asuntos personales?
+Investigador: No he dicho eso. Pero usted describió su ausencia como algo urgente y no pudo explicar de qué se trataba.
+Thomas: Porque no era relevante para esta investigación.
+Investigador: Una niña desapareció esa misma noche. Su puesto estaba cerca de la carretera que conduce al bosque. Creo que sus movimientos son relevantes.
+Thomas: ¡No vi a Ellie esa noche! ¡No sé dónde estaba y no tengo nada que ver con lo que le ocurrió!
+Está perdiendo el tiempo con el hombre equivocado.
+
+[pause=2]
+
+[dialogue]
+Investigador: Estoy intentando establecer dónde estuvo durante el tiempo que abandonó su puesto.
+Thomas: Robert puede decir lo que quiera. No tiene forma de saber dónde estaba yo en cada momento.
+Investigador: ¿Y usted puede demostrarlo?
+Thomas: ...
+Investigador: ¿Podría contarme a dónde fue en ese momento?
+Thomas: Fuí a-
+...
+Investigador: ¿A dónde, sheriff Reed?
+Thomas: ...
+Investigador: Thomas. ¿A dónde?
+Thomas: ...
+Investigador: ¿Cómo espera que confiemos en usted si ni siquiera puede responderme una pregunta tan simple?
+Thomas: No tiene nada que ver con Ellie.
+Investigador: Repito. ¿Cómo puedo confiar en usted?
+
+[pause=2]
+
+[dialogue]
+Investigador: Thomas, quiero que entienda algo. No estamos investigando únicamente la muerte de Ellie. 
+También estamos revisando cómo se manejó su desaparición.
+Thomas: Eso ya lo sé.
+Investigador: Usted era responsable del departamento. 
+Recibió advertencias sobre su situación familiar, ignoró las visitas de una niña que buscaba ayuda, permitió que se acumularan denuncias sin un seguimiento adecuado y después dirigió una búsqueda que dejó sin revisar el sector donde finalmente apareció su cuerpo.
+Thomas: ¡No dejé de buscarla!
+Investigador: No he dicho eso.
+Thomas: ¡Movilizamos a todo el pueblo! ¡Mis hombres estuvieron días enteros en ese bosque! ¿Y ahora pretende que todo fue culpa mía?
+Investigador: Pretendo que asuma la responsabilidad de sus decisiones.
+Thomas: ¡Hice mi trabajo!
+Investigador: ¿De verdad lo cree?
+Ellie tenía trece años. No tenía a nadie a quien acudir. Y cuando intentó acercarse a usted, usted estaba demasiado ocupado.
+Thomas: No sabe nada de esa niña.
+Investigador: Sé que ahora está muerta. 
+Y sé que varias personas intentaron advertirle que algo no estaba bien.
+Thomas: ...
+
+[pause=3]
+
+[dialogue]
+Investigador: Si no va a responder mis preguntas, supongo que lo dejaremos así por hoy, señor Reed.
+Thomas: ...
+Espero que esté satisfecho. Ha conseguido que parezca que soy el responsable de todo lo que salió mal en este pueblo.
+Investigador: Usted cavó su propia tumba.
+Thomas: Busque en otra parte. Porque yo no maté a esa niña.
+Investigador: No he dicho que lo hiciera, pero el mantenerse callado solo le perjudicará más.
+De todas formas, lo más seguro es que lo degraden de puestos por negligencia... incluso tal vez pierda su trabajo.
+Pero mejor eso ha permanecer en prisión, ¿no es cierto?
+Thomas: ...
+Investigador: Cuando esté listo para hablar, comuníqueselo a los agentes que solían estar bajo su mando. Ellos me lo harán saber.
+
+[pause=2]
+
+[Header]
+FIN DE GRABACIÓN
+
+[Line]
+
+[Subtitle]
+NOTAS DEL INVESTIGADOR
+
+El entrevistado mantuvo una actitud hostil y defensiva durante toda la sesión. Sin embargo, a diferencia de la primera entrevista, mostró una mayor disposición a responder y justificar sus decisiones, especialmente cuando fue confrontado con los testimonios de Doris Whitaker y Evelyn Foster.
+
+Respecto a las denuncias de posibles malos tratos en el domicilio de los Morrow, sostuvo que las llamadas recibidas eran frecuentes, poco concretas y procedían principalmente de vecinos que consideraba poco fiables. Justificó la falta de intervención alegando que no existían pruebas suficientes y que las comprobaciones realizadas no habían revelado motivos para actuar. No obstante, no pudo presentar registros que respaldaran dichas comprobaciones.
+
+En relación con las visitas de Ellie a la estación, terminó reconociendo que la niña acudía con frecuencia, aunque minimizó su comportamiento y negó haber tenido motivos para considerar que necesitaba ayuda. El testimonio de Robert Hale contradice su versión sobre la atención que recibió Ellie y sugiere que el sheriff evitaba atenderla personalmente.
+
+El entrevistado reaccionó con especial hostilidad ante las declaraciones de Hale, a quien considera un subordinado resentido. Aunque su enemistad podría afectar la fiabilidad de parte de su testimonio, existen coincidencias entre su declaración y las de otros testigos respecto a la conducta de Reed y su falta de seguimiento de las denuncias.
+
+El punto más relevante de la entrevista corresponde a la noche del treinta y uno de octubre. Reed mantuvo que su ausencia del puesto de vigilancia fue breve y necesaria, pero no pudo justificarla ni proporcionar información que permitiera verificar sus movimientos. Al preguntársele directamente adónde se había dirigido, interrumpió sus respuestas y se negó a continuar hablando sobre el asunto.
+
+Su negativa resulta especialmente significativa, dado que previamente había descrito la ausencia como un asunto personal sin relación con la desaparición. No existe todavía evidencia que permita determinar dónde estuvo durante ese intervalo ni qué motivos tuvo para ocultarlo.
+
+En conjunto, los testimonios y las respuestas del entrevistado revelan un patrón de negligencia en el manejo de las preocupaciones relacionadas con Ellie Morrow. Sin embargo, su conducta durante la noche de Halloween constituye una línea de investigación independiente que requiere mayor atención.
+
+Se recomienda reconstruir los movimientos de Reed durante la noche del treinta y uno de octubre, verificar los registros de comunicación del departamento y determinar el motivo por el que se niega a explicar su ausencia del puesto de vigilancia.

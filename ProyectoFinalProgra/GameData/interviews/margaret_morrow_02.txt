@@ -27,7 +27,7 @@ Investigador: Me gustaría que lo explicara otra vez.
 Margaret: Pensé que volvería. No era la primera vez que pasaba una noche fuera.
 Investigador: ¿Ellie solía pasar noches fuera de casa?
 Margaret: No. Y no creo que tuviera amigos para quedarse con ellos.
-Pero le gustaba salir pro el día. A veces pasaba horas fuera.
+Pero le gustaba salir por el día. A veces pasaba horas fuera.
 Investigador: ¿Y usted no sabía dónde estaba?
 Margaret: La mayor parte de las veces no.
 Estoy segura de que se iba al bosque...
@@ -66,19 +66,22 @@ No sé. Cambiaba los detalles constantemente.
 Investigador: ¿Sabía quién era esa niña?
 Margaret: No. Pero estoy segura de que era imaginaria.
 Tenía muchos amigos imaginarios.
+A cada rato venía con uno nuevo.
 Investigador: ¿Cómo reaccionó usted?
 Margaret: Le dije que esas cosas no existían.
-Eso...
-Eso era la principal razón de nuestra discusiones.
+Esa...
+Esa era la principal razón de nuestra discusiones.
 Investigador: ¿Le preocupaba que Ellie creyera realmente que podía ver a personas muertas?
 Margaret: Me preocupaba que siguiera hablando de eso delante de otras personas.
 Investigador: ¿Por qué?
 Margaret: Porque los vecinos ya me miraban bastante mal.
 No necesitaba que empezaran a pensar que no sabía criar a mi propia hija.
-Investigador: ¿Le avergonzaba? ¿Cómo es eso?
-Margaret: Me avergonzaba que no pudiera comportarse como una niña normal.
-La gente ve lo extraña que es ella y pienso que yo soy igual.
+Investigador: ¿Entonces le avergonzaba?
+Margaret: Supongo... 
+Me avergonzaba que no pudiera comportarse como una niña normal.
+La gente ve lo extraña que es ella y puede pensar que yo soy igual.
 ¿Cree que eso es justo?
+Lo único que ella tenía que hacer era no comportarse de forma extraña frente a los demás. Era lo único que le pedía.
 Ella ya estaba bastante grande como para creer ese tipo de cosas.
 
 [pause=2]
@@ -150,6 +153,8 @@ Investigador: ...
 Margaret: ...
 
 [pause=3]
+
+[dialogue]
 Investigador: Entiendo.
 Margaret: ¿Ya terminamos?
 Investigador: Por ahora.
@@ -167,7 +172,7 @@ NOTAS DEL INVESTIGADOR
 La entrevistada mostró una actitud considerablemente más defensiva que durante la primera sesión.
 Inicialmente justificó la demora en presentar el reporte de desaparición afirmando que Ellie tenía antecedentes de pasar noches fuera de casa sin informar a su madre. Reconoció que, en ocasiones, no intentaba averiguar dónde se encontraba.
 Al ser confrontada con testimonios relacionados con posibles episodios de violencia doméstica, Margaret reaccionó negativamente. Después de varias preguntas, admitió haber golpeado a Ellie al menos en una ocasión, aunque se negó a proporcionar más detalles.
-La entrevistada intentó justificar su comportamiento describiendo a Ellie como una niña difícil y desobediente.
+La entrevistada intentó justificar su comportamiento describiendo a Ellie como una niña difícil y desobediente, mencionó repetitivamente la palabra "normal", como un modelo a seguir.
 También confirmó que desaprobaba las historias de fantasmas de su hija. Mencionó que Ellie hablaba repetidamente de una niña que veía cerca del bosque y del río.
 Margaret manifestó que le preocupaba la percepción que los vecinos tenían de su familia y que las historias de Ellie podían perjudicar su reputación.
 Durante la entrevista admitió estar cansada de las discusiones y del comportamiento de su hija. Al ser confrontada con la aparente falta de preocupación mostrada durante la primera declaración, respondió de manera hostil.

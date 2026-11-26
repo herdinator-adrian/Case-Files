@@ -1,0 +1,200 @@
+
+[Header]
+ENTREVISTA — Thomas REED
+
+[Line]
+
+ENTREVISTA: 01
+FECHA: 16 DE NOVIEMBRE DE 1998
+LUGAR: DEPARTAMENTO DE INVESTIGACIONES
+ENTREVISTADO: Thomas REED
+
+[Line]
+
+[Header]
+INICIO DE GRABACIÓN
+
+[pause=2]
+
+[dialogue]
+Investigador: Esta entrevista está siendo grabada. ¿Entiende por qué se encuentra aquí?
+Thomas: Sí. Y espero que no vayamos a perder toda la tarde con esto.
+Investigador: Me gustaría que colaborara con nosotros, sheriff.
+Thomas: Llevo diecinueve años manteniendo este pueblo a salvo.
+Diecinueve.
+He visto de todo por aquí y nunca he necesitado que alguien de fuera venga a explicarme cómo hacer mi trabajo.
+Investigador: Una niña desapareció y posteriormente fue encontrada muerta. 
+Creo que es razonable que revisemos cómo se manejó el caso.
+Thomas: No me dé lecciones sobre mi trabajo.
+Investigador: No es mi intención. Solo estamos intentando entender qué ocurrió.
+Thomas: Pues pregunte. Para eso estoy aquí, ¿no?
+Tremenda pérdida de tiempo.
+
+[pause=2]
+
+[dialogue]
+Investigador: Hablemos de la búsqueda de Ellie Morrow. ¿Cuándo comenzaron las operaciones?
+Thomas: Un día después de que fue reportada como desaparecida.
+Investigador: ¿Y cómo se organizaron?
+Thomas: Como se organiza cualquier búsqueda de este tipo.
+Se dividió el área, se asignaron equipos y se revisaron los caminos, las zonas habitadas y los alrededores del bosque.
+Investigador: ¿Participaron voluntarios?
+Thomas: Por supuesto. Medio pueblo se ofreció a ayudar.
+Coordinamos a todos para evitar que se estorbaran entre sí.
+El bosque de Bellwether es enorme, ¿sabe?
+Alguien tan pequeña como esa niña podría perderse fácilmente ahí dentro.
+Y eso fue lo que pensamos que había ocurrido.
+No fue precisamente una operación pequeña.
+Investigador: ¿Considera que se hizo todo lo posible?
+Thomas: Sí. Absolutamente.
+Investigador: ¿No cree que pudo haberse pasado por alto alguna zona?
+Thomas: Siempre se puede decir eso después de que aparece un cuerpo.
+Es muy fácil mirar un mapa dos semanas más tarde y decir que deberíamos haber buscado en otro sitio.
+Investigador: No estoy hablando de cualquier zona.
+El cuerpo apareció en un sector que no figura entre los lugares inspeccionados.
+Thomas: Porque no había motivos para buscar allí.
+Investigador: ¿Ninguno?
+Thomas: Ninguno que justificara enviar gente hasta ese lugar.
+Es una zona apartada, de difícil acceso. Teníamos recursos limitados y había áreas con más probabilidades de encontrarla.
+Es muy fácil para usted decir este tipo de cosas sin tener el mínimo conocimiento.
+Investigador: Entiendo eso. ¿Quién tomó esa decisión?
+Thomas: Yo. Soy el sheriff. Las decisiones operativas pasan por mí.
+
+[pause=2]
+
+[dialogue]
+Investigador: ¿Se llegó a considerar esa zona durante la planificación?
+Thomas: Se consideraron muchas zonas.
+Investigador: Pero esa no se revisó.
+Thomas: Ya le he dicho por qué. ¿Acaso no escucha?
+Investigador: ¿No cree que habría sido razonable comprobarla de todos modos?
+Thomas: ¿Y qué habría conseguido con eso? ¿Mandar a veinte personas a caminar por kilómetros de bosque sin ninguna pista? No funciona así.
+Investigador: Pues... el cuerpo estaba allí.
+Thomas: Sí. Ahora lo sabemos, ¿no es cierto?
+¡Aleluya! ¡El cuerpo fue encontrado!
+¿Qué diferencia hace? De todas maneras está muerta.
+Investigador: ...
+Thomas: Escúcheme bien, señor investigador:
+Teníamos una niña desaparecida y un pueblo entero esperando respuestas.
+Hicimos lo que pudimos con la información que teníamos.
+No voy a disculparme por tomar decisiones difíciles.
+
+[pause=2]
+
+[dialogue]
+Investigador: Quisiera hablar de los antecedentes de Ellie. ¿Recibió el departamento algún reporte relacionado con su situación familiar?
+Thomas: ¿Qué clase de reporte?
+Investigador: Preocupaciones sobre posibles malos tratos en su domicilio.
+Thomas: Recibimos llamadas de vez en cuando. Es un pueblo pequeño. 
+La gente ve algo, escucha una discusión y enseguida cree que tiene que llamar a la policía.
+Investigador: ¿Recuerda haber recibido reportes sobre Ellie?
+Thomas: Recuerdo que hubo algunas preocupaciones. Nada especialmente concreto.
+Investigador: ¿Se investigaron esas denuncias?
+Thomas: Por supuesto. Se hicieron las comprobaciones correspondientes.
+No había pruebas suficientes para confirmar ninguna de esas acusaciones.
+Investigador: ¿Consideró que podía existir un riesgo para Ellie?
+Thomas: Consideré lo que tenía delante. No puedo retirar a una niña de su casa cada vez que alguien escucha una discusión al otro lado de una pared.
+Investigador: ¿Puede mostrarme los registros de esas investigaciones?
+Thomas: Tendrá que solicitarlos a mi departamento.
+Investigador: Ya lo hemos hecho. No hemos encontrado registros de seguimiento.
+Thomas: Entonces quizá no se documentaron correctamente.
+Investigador: ¿Eso... no le parece extraño?
+Thomas: Me parece que está intentando convertir un problema de papeleo en una acusación en contra mía.
+Estaban pasando muchas cosas, ¿puedes culparme por que se me pasara algo?
+Si me dejaran salir de aquí, tal vez podría buscar donde están esos papeles.
+Investigador: Lo siento, pero no podrá salir pronto. Por lo menos hasta que algunas cosas queden más claras.
+Thomas: ¡Soy el sheriff! ¡Yo soy el que debería de estar a cargo de esta investigación!
+Que tontería.
+
+[pause=2]
+
+[dialogue]
+Investigador: Pasemos a la noche del treinta y uno de octubre.
+Thomas: ¿Qué tiene esa noche?
+Investigador: El departamento había recibido solicitudes de varias familias para vigilar los alrededores del pueblo durante Halloween.
+Thomas: Sí. Es algo que hacemos todos los años.
+Investigador: ¿Cuál era su responsabilidad esa noche?
+Thomas: Supervisar el operativo y asegurarme de que los agentes estuvieran distribuidos correctamente.
+Investigador: ¿También tenía asignado un puesto de vigilancia?
+Thomas: Sí. Cerca de la carretera que conduce al bosque.
+Investigador: ¿Permaneció allí durante toda la noche?
+Thomas: No. Tuve que atender unos asuntos urgentes. Pero solo fueron unos minutos.
+Investigador: ¿Cuáles asuntos urgentes?
+Thomas: Nada importante.
+Investigador: Thomas, esto es importante.
+¿Puede confirmar que estuvo en su puesto durante el horario en que Ellie desapareció?
+Thomas: Estuve trabajando esa noche. Solo no estuve por unos minutos. Eso es lo que importa.
+Investigador: No es exactamente lo que le he preguntado.
+Thomas: Y yo no tengo por qué justificar cada movimiento que hice durante una jornada de trabajo.
+Investigador: ¿No hay algún registro que pueda ayudarnos a establecerlo?
+Thomas: Tendría que revisar los informes de patrulla.
+Investigador: Lo haremos.
+
+[pause=2]
+
+[dialogue]
+Investigador: Algunos testimonios dicen que te apresuraste para decir que Ellie había muerto en un accidente.
+Pero en realidad, al hacer el análisis forense, resultó que sí fue un asesinato.
+¿Por qué se apresuró tanto?
+Thomas: Mire, las pruebas demostraban que era un accidente.
+Ella había caído al río y no fue difícil determinar que se había ahogado.
+Y por lo que había escuchado, Ellie era una chica que a cada rato se iba a esconder al bosque.
+No sería sorprendente que algún día pasara algo como esto.
+Investigador: Esto tal vez puedo entenderlo, pero oficiales de la policía explicaron que ni siquiera se tomó las molestias para analizar bien el cadáver.
+Thomas: Claro que lo analizé. ¡Por eso pensé que había sido un accidente!
+No puedo creer que me estén culpando por algo como eso.
+
+[pause=2]
+
+[dialogue]
+Investigador: Mire. Entiendo que esta investigación ha sido difícil para el departamento.
+Thomas: Difícil no.
+Ha sido frustrante.
+Hicimos nuestro trabajo y ahora parece que tenemos que justificar cada decisión porque el resultado no fue el que todos queríamos.
+Investigador: Es normal que haya preguntas cuando ocurre algo como esto en un pueblo tan tranquilo.
+Thomas: ¿Y cree que no lo sé? ¿Cree que no he pensado en eso cada día desde que empezó todo?
+Investigador: No estoy cuestionando su preocupación por la víctima.
+¿Considera que hubo errores durante la investigación inicial?
+Thomas: Siempre hay cosas que se pueden hacer mejor.
+Pero eso no significa que alguien haya hecho algo malintencionadamente.
+Tampoco hay razón por la que me mantengan aquí.
+Investigador: ...
+
+[pause=2]
+
+[dialogue]
+Investigador: Por ahora, eso es todo.
+Thomas: ¿Eso es todo? ¿Después de hacerme las mismas preguntas de cinco maneras distintas?
+Investigador: Es posible que tengamos que volver a hablar.
+Thomas: Me lo imaginaba.
+Investigador: Le agradezco su tiempo.
+Thomas: Sí, claro. ¿Ya puedo irme?
+Investigador: Por el momento, no. Tendrá que esperar mientras terminamos de revisar los registros.
+Thomas: ¿Todavía? Llevo aquí horas.
+Investigador: Póngase cómodo, porque probablemente se quede aquí por unos días.
+Thomas: ...
+Esto es ridículo.
+Espero que sepa lo que está haciendo, investigador.
+Porque mi paciencia tiene un límite.
+
+[pause=2]
+
+[Header]
+FIN DE GRABACIÓN
+
+[Line]
+
+[Subtitle]
+NOTAS DEL INVESTIGADOR
+
+El entrevistado mostró una actitud hostil y defensiva desde el inicio de la sesión. Se mostró especialmente sensible ante cualquier cuestionamiento de su desempeño como sheriff y reaccionó con sarcasmo, interrupciones y comentarios despectivos ante varias preguntas.
+
+Defendió repetidamente la organización de la búsqueda y justificó la exclusión del sector donde posteriormente fue encontrado el cuerpo, alegando falta de indicios y limitaciones de recursos. Reconoció haber tenido autoridad directa sobre las decisiones operativas y la selección de testimonios incluidos en el expediente.
+
+Al ser interrogado sobre posibles antecedentes de maltrato doméstico relacionados con Ellie Morrow, confirmó que el departamento había recibido varias comunicaciones sobre discusiones y posibles malos tratos en su domicilio. Afirmó que las denuncias fueron comprobadas y que no existían pruebas suficientes para intervenir. Sin embargo, no pudo proporcionar detalles concretos sobre las investigaciones realizadas ni explicar la ausencia de registros de seguimiento.
+
+Respecto a la noche del treinta y uno de octubre, confirmó que tenía responsabilidades de supervisión y que contaba con un puesto de vigilancia asignado cerca de la carretera que conduce al bosque. No pudo confirmar cuánto tiempo permaneció allí ni proporcionar una explicación clara sobre sus movimientos durante el turno.
+
+El entrevistado mostró una actitud particularmente evasiva al ser cuestionado sobre la documentación del departamento. Sus respuestas sugieren una posible falta de transparencia en el manejo de los registros, aunque todavía no permiten determinar si las omisiones fueron deliberadas.
+
+Se recomienda revisar los registros de llamadas recibidas por el departamento durante los meses anteriores a la desaparición, contrastar las declaraciones de los agentes que trabajaron con Reed y reconstruir sus movimientos durante la noche del treinta y uno de octubre.

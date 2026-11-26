@@ -1,0 +1,126 @@
+[Header]
+ENTREVISTA — Walter HAYES
+
+[Line]
+
+ENTREVISTA: 01
+FECHA: 16 DE NOVIEMBRE DE 1998
+LUGAR: DEPARTAMENTO DE INVESTIGACIONES
+ENTREVISTADO: Walter HAYES
+
+[Line]
+
+[Header]
+INICIO DE GRABACIÓN
+
+[pause=2]
+
+[dialogue]
+Investigador: Esta entrevista está siendo grabada. ¿Entiende por qué se encuentra aquí?
+Walter: ¡Claro, claro! No hay ningún problema. 
+Aunque, bueno, debo decir que no estoy muy acostumbrado a estar sentado en la mesa.
+Normalmente estoy parado sirviendo clientes.
+Investigador: ¿Se encuentra cómodo?
+Walter: ¡Por supuesto! ¿Quiere un café? No, espera... supongo que no me dejarán acercarme a la cafetera. Ja, ja.
+Investigador: No será necesario, gracias.
+Walter: Como quiera. Oiga, ¿y qué tal el viaje hasta aquí? 
+Espero que no haya tenido que conducir demasiado. 
+Este pueblo está bastante apartado, ¿verdad?
+Investigador: No estuvo mal.
+Walter: Bueno, al menos eso. Aunque no se está perdiendo de mucho. 
+Bellwether es un lugar tranquilo. Demasiado tranquilo, si me pregunta. 
+A veces uno daría lo que fuera por tener algo interesante que hacer.
+
+[pause=2]
+
+[dialogue]
+Investigador: Me gustaría hablar sobre Ellie Morrow. ¿La conocía?
+Walter: ¡Ah, Ellie! Sí, supongo que la conocía. Venía bastante al diner.
+Investigador: ¿Con qué frecuencia?
+Walter: Pues... no sé, una vez por semana, quizás. A veces más. 
+Era una niña bastante tranquila, ¿sabe? No daba problemas.
+Investigador: ¿Solía venir sola?
+Walter: Casi siempre, sí.
+Se sentaba en una de las mesas junto a la ventana. Creo que le gustaba mirar hacia fuera mientras comía.
+Investigador: ¿Qué solía pedir?
+Walter: Chocolate caliente. Siempre chocolate caliente. Ja, ja. Aunque, mire, nunca se lo terminaba. Dejaba casi la mitad en la taza.
+Investigador: ¿Recuerda algo más sobre ella?
+Walter: Le gustaba dibujar, creo. A veces sacaba una libreta y se ponía a hacer garabatos mientras esperaba. No hablaba demasiado, pero era educada. Siempre daba las gracias.
+Investigador: ¿Tenía alguna relación con ella fuera del diner?
+Walter: No, no. Solo era una clienta habitual. 
+Bueno, alguna vez hablábamos un poco. Ya sabe, cosas normales. Qué quería pedir, cómo estaba... Nada fuera de lo común.
+Aunque, bueno, después de verla tantas veces uno termina reconociendo a los niños del pueblo.
+
+[pause=2]
+
+[dialogue]
+Investigador: ¿Cuándo la vio por última vez?
+Walter: Uy... no sabría decirle. Hace bastante, supongo.
+Investigador: ¿No recuerda si fue antes o después de Halloween?
+Walter: Pues... no. La verdad es que atiendo a muchísima gente. No puedo recordar cada cara que entra por esa puerta.
+Investigador: ¿No hubo nada fuera de lo normal durante esos días?
+Walter: No, que yo recuerde. Todo bastante normal. 
+Investigador: ¿Está seguro?
+Walter: Sí, sí. Bueno, tan seguro como puedo estarlo después de tantos días. 
+No quisiera darle información equivocada.
+
+[pause=2]
+
+[dialogue]
+Investigador: ¿Había alguien más trabajando con usted esos días?
+Walter: Depende del día. Tengo a dos empleados que me ayudan con los turnos, pero a veces me toca estar solo. 
+Ya sabe cómo es esto, conseguir gente que quiera trabajar en un diner no es precisamente fácil.
+Investigador: ¿Recuerda quién estaba trabajando el treinta y uno de octubre?
+Walter: Tendría que revisar los horarios. No los tengo todos en la cabeza, ja, ja.
+Investigador: ¿Conserva algún registro de los pedidos?
+Walter: Los recibos, supongo. Aunque no sé cuánto le van a servir. 
+La mayoría son pedidos normales. Hamburguesas, café, esas cosas.
+Investigador: Me gustaría revisarlos.
+Walter: Oh...! Este...
+Sí, claro. Lo que necesite.
+
+[pause=2]
+
+[dialogue]
+Investigador: ¿Alguna vez notó que Ellie estuviera preocupada o asustada?
+Walter: ¿Ellie? No, no realmente. Aunque, bueno, tampoco es que habláramos de cosas personales. 
+Como dije, venía, pedía su chocolate, se sentaba un rato y luego se iba.
+Investigador: ¿Parecía tener problemas en casa?
+Walter: No sabría decirle. Nunca me habló de eso.
+Investigador: ¿Y en la escuela?
+Walter: Tampoco. Mire, yo no soy precisamente la persona indicada para hablar de esas cosas. Solo soy el tipo que le servía el chocolate caliente.
+Investigador: Entiendo.
+Walter: Era una buena niña, eso sí. 
+Me da mucha pena lo que pasó. De verdad.
+
+[pause=2]
+
+[dialogue]
+Investigador: Creo que por ahora es suficiente.
+Walter: ¿Eso es todo? Bueno, ¡estupendo! Espero haber podido ayudar.
+Investigador: Es posible que volvamos a hablar.
+Walter: Claro, claro. Cuando quiera. 
+Y, oiga, si necesita algo mientras está en el pueblo, no dude en preguntar. Conozco a casi todo el mundo por aquí.
+Investigador: Lo tendré en cuenta.
+Walter: ¡Perfecto! Y no se preocupe demasiado por Bellwether. 
+A veces parece que aquí nunca pasa nada, pero la gente es buena. Ya verá.
+
+[pause=2]
+
+[Header]
+FIN DE GRABACIÓN
+
+[Line]
+
+[Subtitle]
+NOTAS DEL INVESTIGADOR
+
+El entrevistado mantuvo una actitud cordial y conversadora durante toda la sesión. Intentó generar un ambiente distendido mediante bromas y preguntas personales, incluso al inicio de una entrevista formal.
+
+Sin embargo, se reía demasiado, dando señales de nerviosismo.
+
+Habló de Ellie con afecto y recordó algunos de sus hábitos como clienta habitual, especialmente su preferencia por el chocolate caliente.
+
+Sin embargo, mostró poca memoria sobre los días previos a la desaparición. No pudo confirmar cuándo la vio por última vez ni recordar si estuvo acompañada.
+
+Se mostró dispuesto a colaborar y facilitar los registros del establecimiento. Su actitud excesivamente complaciente podría dificultar la evaluación de la sinceridad de sus respuestas.

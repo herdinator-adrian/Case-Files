@@ -1,0 +1,161 @@
+[Header]
+ENTREVISTA — Margaret MORROW
+
+[Line]
+
+ENTREVISTA: 01
+FECHA: 16 DE NOVIEMBRE DE 1998
+LUGAR: DEPARTAMENTO DE INVESTIGACIONES
+ENTREVISTADA: Margaret MORROW
+
+[Line]
+
+[Header]
+INICIO DE GRABACIÓN
+
+[pause=2]
+
+[dialogue]
+Investigador: Esta entrevista está siendo grabada. ¿Entiende por qué se encuentra aquí?
+Margaret: Sí.
+Investigador: No la escuché bien. ¿Podría decirlo en voz alta?
+Margaret: Sí. Por Ellie.
+Investigador: Correcto. Queremos aclarar las circunstancias de su desaparición y muerte. Necesitamos que responda con sinceridad.
+Margaret: Ya he respondido a todo esto.
+Investigador: Lo sé. Tendremos que volver sobre algunas cosas.
+¿Se encuentra en condiciones de responder unas preguntas?
+Margaret: Supongo.
+Investigador: Bien. Me gustaría repasar los acontecimientos para asegurarme de que no haya nada que se nos haya pasado.
+Margaret: Ajá...
+
+[pause=2]
+
+[dialogue]
+Investigador: Entonces, ¿cuándo vio a Ellie por última vez?
+Margaret: El treinta y uno de octubre.
+Investigador: ¿A qué hora?
+Margaret: No lo sé. Por la tarde.
+Investigador: ¿Qué estaba haciendo?
+Margaret: ¿Yo o ella?
+Investigador: Ambas. ¿Qué estaban haciendo?
+Margaret: Estábamos en casa. No recuerdo exactamente qué hacía yo, probablemente los quehaceres. Lavando la ropa.
+Ellie creo que estaba dibujando.
+Investigador: ¿Recuerda qué llevaba puesto cuando salió?
+Margaret: No.
+Investigador: ¿Le dijo adónde iba?
+Margaret: No. Simplemente salió.
+Investigador: ¿Y usted no preguntó?
+Margaret: Habíamos discutido. No tenía muchas ganas de hablar con ella. Probablemente por eso se fue.
+Investigador: ¿La dejó salir después de una discusión?
+Margaret: No es una niña pequeña. Sale mucho.
+Investigador: ¿Sabía que era Halloween?
+Margaret: Claro que sí.
+Investigador: ¿No le preocupaba que saliera sola?
+Margaret: No. Las calles estarían llenas y en este pueblo todo el mundo se conoce.
+Además, Ellie solía hacer esas cosas. Se iba por ahí y a veces volvía tarde.
+Investigador: ¿Y nunca le preocupó?
+Margaret: ...
+No sé qué decirle.
+
+[pause=2]
+
+[dialogue]
+Investigador: Hablemos un poco de su relación con Ellie. ¿Cómo se llevaban?
+Margaret: Normal.
+Investigador: ¿Podría darme más detalles?
+Margaret: Pues... como una madre y su hija.
+Era una niña un poco... "especial".
+A veces discutíamos, claro, pero...
+Investigador: ¿Con frecuencia?
+Margaret: Eh... diría que como cualquier madre y su hija.
+Investigador: ¿Tenían intereses en común?
+Margaret: No especialmente.
+Investigador: ¿Qué le gustaba hacer a Ellie?
+Margaret: Siempre estaba fuera, juntando hojas y rocas.
+Le gustaba grabar la naturaleza por alguna razón.
+También dibujaba. Le gustaba mucho.
+Investigador: ¿Pasaban tiempo juntas?
+Margaret: Cuando no estaba cansada.
+Investigador: ¿Cansada?
+Margaret: Soy madre soltera. No me queda de otra más que trabajar para mantenernos a ambas.
+
+[pause=2]
+
+[dialogue]
+Investigador: Volvamos al treinta y uno de octubre.
+Me quedó una duda. Entiendo que Ellie ya es un poco mayor, pero ¿por qué no decidió acompañarla a pedir dulces?
+Margaret: No lo sé. Probablemente tenía cosas que hacer.
+Investigador: ¿Está segura de que no había algo más? Cualquier detalle, por mínimo que sea, podría ayudarme a entender qué sucedió.
+
+[pause=1]
+
+[dialogue]
+Margaret: Ugh... La verdad es que discutimos ese día.
+Investigador: ¿Por qué?
+Margaret: Por una tontería.
+Investigador: ¿Podría explicarlo?
+Margaret: No quería hacer lo que le había pedido. Empezó a contestarme y a ignorarme. Ya sabe cómo son los niños.
+Investigador: ¿Fue una discusión importante?
+Margaret: No. Una discusión normal entre una madre y su hija.
+Investigador: Ya ha mencionado varias veces que todo era normal.
+Margaret: No sé qué quiere que le diga. Si usted tuviera hijos, lo entendería.
+Investigador: Tal vez tenga razón.
+¿Alzaron la voz?
+Margaret: Probablemente.
+Investigador: ¿Alguien más estaba presente?
+Margaret: No.
+Investigador: ¿Cómo terminó la discusión?
+Margaret: Se salió de la casa. Esa fue la última vez que la vi.
+Investigador: Ya veo. Mis más sinceras condolencias.
+Margaret: ...
+
+[pause=2]
+
+[dialogue]
+Investigador: ¿Qué hizo cuando Ellie no regresó?
+Margaret: Esperar. ¿Qué más iba a hacer?
+Investigador: ¿No salió a buscarla?
+Margaret: No... Ella se adentra mucho en el bosque. Pensé que volvería tarde o temprano.
+Investigador: ¿Cuánto tiempo esperó?
+Margaret: No sé.
+Investigador: El reporte se presentó el dos de noviembre. ¿Por qué esperó tanto?
+Margaret: Pensé que solo estaba haciendo un berrinche.
+Investigador: ¿No le pareció extraño que no volviera?
+Margaret: Sí. Por eso al final fui a la policía.
+Investigador: ¿Cuándo empezó a pensar que podía haberle ocurrido algo?
+Margaret: No lo pensé hasta que se formaron los grupos de búsqueda y ella no aparecía.
+Creí que...
+Creí que-
+
+[pause=3]
+
+[dialogue]
+Investigador: Está bien, manténgase en calma.
+Lo dejaremos aquí por ahora.
+¿Hay algo más que crea que deberíamos saber sobre Ellie?
+Margaret: No.
+Investigador: ¿Está segura?
+Margaret: Ya le he dicho todo lo que sé.
+Investigador: De acuerdo. Es suficiente.
+
+[pause=2]
+
+[Header]
+FIN DE GRABACIÓN
+
+[Line]
+
+[Subtitle]
+NOTAS DEL INVESTIGADOR
+
+La entrevistada mantuvo una actitud reservada durante toda la sesión. Respondió brevemente y rara vez ofreció información adicional sin que se le solicitara.
+
+No mostró una reacción emocional significativa al hablar de la víctima. Su tono permaneció prácticamente constante.
+
+Reconoció una relación conflictiva con Ellie, aunque describió sus discusiones como desacuerdos familiares habituales.
+
+Manifestó una clara desaprobación hacia las historias de fantasmas de su hija. Parecía más preocupada por la percepción de los demás que por el contenido de dichas historias.
+
+Confirmó haber discutido con Ellie el 31 de octubre, aunque restó importancia al incidente. No se obtuvieron detalles suficientes sobre la naturaleza de la discusión.
+
+Se recomienda contrastar su declaración con testimonios de personas cercanas a la víctima.

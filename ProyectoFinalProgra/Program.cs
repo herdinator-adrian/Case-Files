@@ -8,7 +8,7 @@ public class Program
 	{
 		DocumentManager.InitializeGame();
 
-		Console.WriteLine("=== Welcome to Text File Manager ===");
+		Console.WriteLine("=== Case Files ===");
 		Console.WriteLine($"[{DocumentManager.StoryDate.ToString("dd/MM/yyyy")}]");
 		Commands.Help();
 		Console.WriteLine("You can leave anytime using the command \"exit\" or Ctrl+C.\n");
